@@ -13,6 +13,7 @@ This requires the use of Python, as well as a certain module
 - pip install pyppeteer
 - pip install beautifulsoup4
 - pip install requests
+  
 You'll also need to modify the webhook link in the script, as well as the combo list if you're using the 2nd script
 All that's left to do is to use the Windows task scheduler or Cron on Linux to automate the monthly script launch.
 
