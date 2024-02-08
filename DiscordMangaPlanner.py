@@ -6,7 +6,7 @@ import requests
 
 async def send_to_discord(embed):
     # Mettez le lien du webhook Discord ici
-    webhook_url = "https://discord.com/api/webhooks/1066399504644976771/i6q5UPVhxVqpQWyLcr_tTLI72K9MvS1oxd_aoGjbRdkbbVfuJCV6HwuzFAi0LwL4mSV8"
+    webhook_url = ""
     requests.post(webhook_url, json={"embeds": [embed]})
 
 async def main():
