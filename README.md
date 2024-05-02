@@ -14,7 +14,20 @@ Install the requirements:
 ```sh
 pip install -r requirements.txt
 ```
-  
+
+To run the script you need to perform : 
+Full version :
+
+```sh
+python DiscordMangaPlanner.py
+```
+
+Version with list of mangas to be added to the script
+
+```sh
+python DiscordMangaPlanner-combolist.py
+```
+
 You'll also need to modify the webhook link in the script, as well as the combo list if you're using the 2nd script
 All that's left to do is to use the Windows task scheduler or Cron on Linux to automate the monthly script launch.
 
