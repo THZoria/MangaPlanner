@@ -12,6 +12,7 @@ This requires the use of Python, as well as a certain module asyncio, pyppeteer,
 Install the requirements:
 
 ```sh
+git clone https://github.com/THZoria/MangaPlanner.git
 pip install -r requirements.txt
 ```
 
@@ -26,7 +27,6 @@ python DiscordMangaPlanner.py
 Version with list of mangas to be added to the script
 
 ```sh
-git clone https://github.com/THZoria/MangaPlanner.git
 python DiscordMangaPlanner-combolist.py
 ```
 
