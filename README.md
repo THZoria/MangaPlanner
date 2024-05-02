@@ -8,11 +8,12 @@ It uses an API or web scraping from the nautiljon site to retrieve information o
 - The second displays only the mangas you've added to the combo list.
 
 # How it works
-This requires the use of Python, as well as a certain module
-- pip install asyncio
-- pip install pyppeteer
-- pip install beautifulsoup4
-- pip install requests
+This requires the use of Python, as well as a certain module asyncio, pyppeteer, beautifulsoup4 and requests
+Install the requirements:
+
+```sh
+pip install -r requirements.txt
+```
   
 You'll also need to modify the webhook link in the script, as well as the combo list if you're using the 2nd script
 All that's left to do is to use the Windows task scheduler or Cron on Linux to automate the monthly script launch.
