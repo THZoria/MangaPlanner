@@ -26,6 +26,7 @@ python DiscordMangaPlanner.py
 Version with list of mangas to be added to the script
 
 ```sh
+git clone https://github.com/THZoria/MangaPlanner.git
 python DiscordMangaPlanner-combolist.py
 ```
 
