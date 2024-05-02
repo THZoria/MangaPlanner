@@ -1,7 +1,7 @@
-# DiscordMangaPlanner
+# MangaPlanner
 
-DiscordMangaPlanner is a Python script designed to provide manga schedules on Discord
-It uses an API or web scraping from the nautiljon site to retrieve information on upcoming manga releases, then formats them in a clear and readable way for display on a Discord server. This script can be configured to run periodically, providing regular updates on new manga releases, offering a rewarding experience for manga enthusiasts on Discord.
+MangaPlanner is a Python script designed to provide manga calendars on Discord.
+It uses an API or web scraping from the nautiljon site to retrieve information on upcoming manga releases, then formats them in a clear and readable way for display on a Discord server or in ICS format. This script can be configured to run periodically, providing regular updates on new manga releases, offering a rewarding experience for manga fans on Discord or in ICS for Mail tools like Outlook or Thuderbird.
 
 # There are 2 versions of this script, 
 - The first displays the entire schedule for the upcoming manga month.
@@ -15,7 +15,8 @@ Install the requirements:
 pip install -r requirements.txt
 ```
 
-To run the script you need to perform : 
+To run the for discord script
+
 Full version :
 
 ```sh
@@ -26,6 +27,20 @@ Version with list of mangas to be added to the script
 
 ```sh
 python DiscordMangaPlanner-combolist.py
+```
+
+To run this script in ICS version
+
+Full version :
+
+```sh
+python MangaPlannerICS.py
+```
+
+Version with list of mangas to be added to the script
+
+```sh
+python MangaPlannerICS-ComboList.py
 ```
 
 You'll also need to modify the webhook link in the script, as well as the combo list if you're using the 2nd script
