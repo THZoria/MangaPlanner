@@ -49,7 +49,8 @@ async def main():
             "date_sortie": date_sortie,
             "prix": prix,
             "editeur": editeur,
-            "lien_acheter": lien_acheter
+            "lien_acheter": lien_acheter,
+            "image": image
         }
 
         event = await generate_ics_event(manga_info)
