@@ -5,6 +5,9 @@ from bs4 import BeautifulSoup
 import requests
 from datetime import datetime
 
+# Version du script
+print("Version : 1.1.1 by Zoria")
+
 async def generate_ics_event(manga_info):
     """
     Generate an ICS event string for a manga.
