@@ -40,7 +40,7 @@ async def main():
     for element in elements:
         properties = element.find_all('td')
 
-        date_sortie = datetime.strptime(properties[0].get_text(), "%d/%m/%Y").strftime("%Y%m%d")
+        date_sortie = properties[0].get_text()
         image = 'https://www.nautiljon.com' + properties[1].a.img.attrs['src']
         nom_manga = properties[2].find_all('a')[-1].get_text()
         prix = properties[3].get_text()
