@@ -8,7 +8,7 @@ It uses an API or web scraping from the nautiljon site to retrieve information o
 - The second displays only the mangas you've added to the combo list.
 
 # How it works
-This requires the use of Python, as well as a certain module asyncio, pyppeteer, beautifulsoup4 and requests
+This requires the use of Python, as well as a certain module asyncio, pyppeteer, beautifulsoup4, schedule and requests
 Install the requirements:
 
 ```sh
