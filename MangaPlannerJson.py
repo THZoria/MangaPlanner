@@ -27,7 +27,7 @@ async def main():
 
     for element in elements:
         properties = element.find_all('td')
-
+        id = properties[2].find_all('a')[-1]['href'].split(",")[-1].split(".")[0]
         date_sortie = properties[0].get_text()
         image = 'https://www.nautiljon.com' + properties[1].a.img.attrs['src']
         nom_manga = properties[2].find_all('a')[-1].get_text()
@@ -36,6 +36,7 @@ async def main():
         lien_acheter = 'https://www.nautiljon.com' + properties[5].a.attrs['href'] if properties[5].a else None
 
         manga_info = {
+            "id": id,
             "nom_manga": nom_manga,
             "date_sortie": date_sortie,
             "prix": prix,
