@@ -9,7 +9,7 @@ print("Version : 1.1.1 by Zoria")
 
 async def send_to_discord(embed):
     # Mettez le lien du webhook Discord ici
-    webhook_url = ""
+    webhook_url = "https://canary.discord.com/api/webhooks/1284228808039206933/2mUHIF3LyYFs4Qqm-YTRHY-tsVUrFA9izPuNSDtQkR4HY2wjpCUQ1Gb1Bu98UQ-Anhtj"
     requests.post(webhook_url, json={"embeds": [embed]})
 
 async def main():
@@ -29,7 +29,7 @@ async def main():
 
     for element in elements:
         properties = element.find_all('td')
-
+        ean = properties[5].a.attrs['href'].split('ean=')[1].split('&')[0]
         date_sortie = properties[0].get_text()
         image = 'https://www.nautiljon.com' + properties[1].a.img.attrs['src']
         nom_manga = properties[2].find_all('a')[-1].get_text()
@@ -44,6 +44,7 @@ async def main():
         embed = {
             "title": f"Nouveau manga: {nom_manga}",
             "fields": [
+                {"name": "EAN", "value": ean, "inline": True},
                 {"name": "Date de sortie", "value": date_sortie, "inline": True},
                 {"name": "Prix", "value": prix, "inline": True},
                 {"name": "Éditeur", "value": editeur, "inline": True},
