@@ -6,7 +6,7 @@ import requests
 from datetime import datetime
 
 # Version du script
-print("Version : 1.1.1 by Zoria")
+print("Version : 1.2.0 by Zoria")
 
 async def generate_ics_event(manga_info):
     """
