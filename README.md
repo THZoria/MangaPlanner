@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 To run the for discord script
 
-Full version :
+Full Version Manga :
 
 ```sh
 python DiscordMangaPlanner.py
@@ -30,9 +30,21 @@ Version with list of mangas to be added to the script
 python DiscordMangaPlanner-combolist.py
 ```
 
+Full Version Light Novel :
+
+```sh
+python DiscordLNPlanner.py
+```
+
+Version with list of LightNovel to be added to the script
+
+```sh
+python DiscordLNPlanner-combolist.py
+```
+
 To run this script in ICS version
 
-Full version :
+Full Version Manga :
 
 ```sh
 python MangaPlannerICS.py
@@ -44,10 +56,29 @@ Version with list of mangas to be added to the script
 python MangaPlannerICS-ComboList.py
 ```
 
+Full Version Light Novel :
+
+```sh
+python LNPlannerICS.py
+```
+
+Version with list of LightNovel to be added to the script
+
+```sh
+python python LNPlannerICS.py
+```
+
 Version that generates a json file containing id, manga name, release date, price, publisher, purchase link and image.
+
+Full Version Manga :
 
 ```sh
 python MangaPlannerJson.py
+```
+Full Version LightNovel :
+
+```sh
+python LNPlannerJson.py
 ```
 
 You'll also need to modify the webhook link in the script, as well as the combo list if you're using the 2nd script
