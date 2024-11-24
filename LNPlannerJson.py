@@ -6,7 +6,7 @@ from datetime import datetime
 import json
 
 # Version du script
-print("Version : 1.1.1 by Zoria")
+print("Version : 1.2.0 by Zoria")
 
 async def main():
     browser = await launch(headless=False)
