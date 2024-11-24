@@ -2527,4 +2527,102 @@
         "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385033187&books",
         "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/56/kanpeki_sugite_kawaige_ga_nai_to_konyaku_haki_sareta_seijo_wa_ringoku_ni_urareru_4993665.webp?1729967004"
     }
+    [
+    {
+        "nom_manga": "Un jeune homme rêveur et réaliste Vol. 1",
+        "date_sortie": "02/11/2024",
+        "prix": "4.99 €",
+        "editeur": "Tobikawa Bunko",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385670375&books",
+        "image": "https://www.nautiljon.com/imagesmin/light_novels_volumes/00/79/un_jeune_homme_reveur_et_realiste_1_edition_numerique_19597.webp?0"
+    },
+    {
+        "nom_manga": "Réincarné en pomme Vol. 1",
+        "date_sortie": "05/11/2024",
+        "prix": "7.50 €",
+        "editeur": "Tobikawa Bunko",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385670443&books",
+        "image": "https://www.nautiljon.com/imagesmin/light_novels_volumes/00/39/reincarne_en_pomme_1_edition_numerique_19693.webp?0"
+    },
+    {
+        "nom_manga": "Mashle - Mash Burnedead et ses amis débarquent en force Vol. 1",
+        "date_sortie": "06/11/2024",
+        "prix": "12 €",
+        "editeur": null,
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820352415&books",
+        "image": "https://www.nautiljon.com/imagesmin/light_novels_volumes/00/10/mashle_roman_n_3_1_15101.webp?1728067769"
+    },
+    {
+        "nom_manga": "JoJo's - Purple Haze Feedback Vol. 1",
+        "date_sortie": "13/11/2024",
+        "prix": "",
+        "editeur": "Delcourt/Tonkam",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413081135&books",
+        "image": "https://www.nautiljon.com/imagesmin/light_novels_volumes/00/43/jojo_s_-_purple_haze_feedback_1_334.webp?1730378311"
+    },
+    {
+        "nom_manga": "Les Carnets de l'Apothicaire Vol. 1 - Édition Collector",
+        "date_sortie": "14/11/2024",
+        "prix": "25 €",
+        "editeur": "Lumen",
+        "lien_acheter": null,
+        "image": "https://www.nautiljon.com/imagesmin/light_novels_volumes/00/40/alice_au_royaume_de_cyur_vol_1_-_edition_collector_19404.webp?1730377110"
+    },
+    {
+        "nom_manga": "Konosuba : Sois béni monde merveilleux ! Vol. 10",
+        "date_sortie": "15/11/2024",
+        "prix": "9.95 €",
+        "editeur": "Meian",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385032685&books",
+        "image": "https://www.nautiljon.com/imagesmin/light_novels_volumes/00/52/l_amour_en_cours_10_2025.webp?1729885720"
+    },
+    {
+        "nom_manga": "Konosuba : Sois béni monde merveilleux ! Vol. 9",
+        "date_sortie": "15/11/2024",
+        "prix": "9.95 €",
+        "editeur": "Meian",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385032678&books",
+        "image": "https://www.nautiljon.com/imagesmin/light_novels_volumes/00/62/l_amour_en_cours_9_2026.webp?1729885709"
+    },
+    {
+        "nom_manga": "Classroom of the Elite Vol. 3",
+        "date_sortie": "22/11/2024",
+        "prix": "14.50 €",
+        "editeur": "Mahô Éditions",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782487369177&books",
+        "image": "https://www.nautiljon.com/imagesmin/light_novels_volumes/00/72/classroom_of_the_elite_3_1227.webp?1729417830"
+    },
+    {
+        "nom_manga": "Classroom of the Elite Vol. 4",
+        "date_sortie": "24/11/2024",
+        "prix": "8.49 €",
+        "editeur": "JNC Nina",
+        "lien_acheter": null,
+        "image": "https://www.nautiljon.com/imagesmin/light_novels_volumes/00/72/classroom_of_the_elite_4_edition_numerique_19127.webp?0"
+    },
+    {
+        "nom_manga": "Ascendance of a Bookworm Vol. 6",
+        "date_sortie": "26/11/2024",
+        "prix": "15.90 €",
+        "editeur": "LaNovel Édition",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782386060045&books",
+        "image": "https://www.nautiljon.com/imagesmin/light_novels_volumes/00/40/ascendance_of_a_bookworm_6_3304.webp?1728126559"
+    },
+    {
+        "nom_manga": "So I'm a Spider, So What? Vol. 2",
+        "date_sortie": "26/11/2024",
+        "prix": "15.90 €",
+        "editeur": "LaNovel Édition",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782492139840&books",
+        "image": "https://www.nautiljon.com/imagesmin/light_novels_volumes/00/11/so_i_m_a_spider_so_whaty_2_1411.webp?1726226398"
+    },
+    {
+        "nom_manga": "Unnamed Memory Vol. 2",
+        "date_sortie": "26/11/2024",
+        "prix": "17.90 €",
+        "editeur": "LaNovel Édition",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782492139864&books",
+        "image": "https://www.nautiljon.com/imagesmin/light_novels_volumes/00/37/unnamed_memory_2_11073.webp?1726932758"
+    }
+]
 ]
