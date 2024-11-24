@@ -8,6 +8,9 @@ import schedule
 import time
 from datetime import datetime
 
+# Version du script
+print("Version : 1.2.0 by Zoria")
+
 #Combo list of mangas you're interested in
 allowed_keywords = ["KeyWord1", "KeyWord2", "KeyWord4", "KeyWord5", "KeyWord6"]
 
