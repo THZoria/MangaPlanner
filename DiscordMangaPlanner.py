@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import requests
 
 # Version du script
-print("Version : 1.1.1 by Zoria")
+print("Version : 1.2.0 by Zoria")
 
 async def send_to_discord(embed):
     # Mettez le lien du webhook Discord ici
