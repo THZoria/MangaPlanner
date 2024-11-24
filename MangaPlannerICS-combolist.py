@@ -6,10 +6,10 @@ import requests
 from datetime import datetime
 
 # Version du script
-print("Version : 1.1.1 by Zoria")
+print("Version : 1.2.0 by Zoria")
 
-# Combo list of mangas you're interested in
-allowed_keywords = ["A Couple of Cuckoos", "A Certain Scientific Railgun", "Ash le Bâtisseur de civilisation", "Black Clover", "Bocchi the Rock!", "By The Grace Of The Gods", "Coco L'île magique", "Frieren", "Fun Territory Defense by the Optimistic Lord", "Horimiya", "Kamisama School", "L'Atelier des Sorciers", "La Nouvelle vie de Lili", "La Petite faiseuse de livres - Partie 2", "Les Caprices de la Lune", "Les Carnets de l'Apothicaire", "Les Carnets de l'Apothicaire - Enquêtes à la cour", "Les fées, le Roi-Dragon et moi (en chat)", "Les fées, le Roi-Dragon et moi (en chat)", "Love Me For Who I Am", "Magic Maker", "Mushoku Tensei", "Oshi no Ko", "Step by Step Sara", "Tearmoon Empire Story", "The Rising of the Shield Hero", "Shy", "Vanupied", "Shirayuki aux cheveux rouges", "Fairy Tail - 100 Years Quest", "La sainte déchue et son fervent protecteur", "	Tadokoro-san", "La Lady solitaire", "Le Palais des assassins"]
+#Combo list of mangas you're interested in
+allowed_keywords = ["KeyWord1", "KeyWord2", "KeyWord4", "KeyWord5", "KeyWord6"]
 
 async def generate_ics_event(manga_info):
     """
