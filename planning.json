@@ -1,1666 +1,2418 @@
 [
     {
-        "nom_manga": "Le Grand Maître de la Cultivation Démoniaque Vol. 3 - Édition Collector",
-        "date_sortie": "12/2024",
-        "prix": "14.95 €",
-        "editeur": "Komogi",
-        "lien_acheter": null,
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/48/le_grand_maitre_de_la_cultivation_demoniaque_vol_3_-_edition_collector_edition_reliee_francaise1001584.webp?1717835540"
-    },
-    {
-        "nom_manga": "Le Grand Maître de la Cultivation Démoniaque Vol. 4 - Édition Collector",
-        "date_sortie": "12/2024",
-        "prix": "14.95 €",
-        "editeur": "Komogi",
-        "lien_acheter": null,
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/98/le_grand_maitre_de_la_cultivation_demoniaque_vol_4_-_edition_collector_edition_reliee_francaise1001589.webp?1717835581"
-    },
-    {
-        "nom_manga": "Le Grand Maître de la Cultivation Démoniaque Vol. 5 - Édition Collector",
-        "date_sortie": "12/2024",
-        "prix": "14.95 €",
-        "editeur": "Komogi",
-        "lien_acheter": null,
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/38/le_grand_maitre_de_la_cultivation_demoniaque_vol_5_-_edition_collector_edition_reliee_francaise1001583.webp?1717835607"
-    },
-    {
-        "nom_manga": "Le Grand Maître de la Cultivation Démoniaque Vol. 6 - Édition Collector",
-        "date_sortie": "12/2024",
-        "prix": "14.95 €",
-        "editeur": "Komogi",
-        "lien_acheter": null,
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/58/le_grand_maitre_de_la_cultivation_demoniaque_vol_6_-_edition_collector_edition_reliee_francaise1001585.webp?1717835635"
-    },
-    {
-        "nom_manga": "Animal Crossing - New Horizons - Mon île de rêve Vol. 2",
-        "date_sortie": "04/12/2024",
+        "nom_manga": "2.5 Dimensional Seduction Vol. 4",
+        "date_sortie": "02/01/2025",
         "prix": "8.50 €",
         "editeur": "Soleil",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782302104013&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/57/animal_crossing_-_new_horizons_-_mon_ile_de_reve_21000875.webp?1728497842"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782302103245&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/23/2_5_dimensional_seduction_452432.webp?1732368359"
     },
     {
-        "nom_manga": "Bakemonogatari Vol. 21",
-        "date_sortie": "04/12/2024",
-        "prix": "7.20 €",
-        "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811687755&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/69/bakemonogatari_21982696.webp?1727519357"
+        "nom_manga": "A sign of affection Vol. 11",
+        "date_sortie": "02/01/2025",
+        "prix": "7.10 €",
+        "editeur": "Akata",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385314286&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/01/a_sign_of_affection_111003110.webp?1731451998"
     },
     {
-        "nom_manga": "Blood Bank Vol. 2",
-        "date_sortie": "04/12/2024",
-        "prix": "21.90 €",
+        "nom_manga": "Assassin's Creed - Forgotten Temple Vol. 2",
+        "date_sortie": "02/01/2025",
+        "prix": "12 €",
+        "editeur": "Mana Books",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791035506568&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/55/assassin_s_creed_-_forgotten_temple_2_edition_reliee_francaise1007755.webp?1731656812"
+    },
+    {
+        "nom_manga": "Burn the House Down Vol. 8",
+        "date_sortie": "02/01/2025",
+        "prix": "7.10 €",
+        "editeur": "Akata",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385313548&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/49/burn_the_house_down_8952594.webp?1735576689"
+    },
+    {
+        "nom_manga": "Cherry Magic Vol. 7",
+        "date_sortie": "02/01/2025",
+        "prix": "8.05 €",
+        "editeur": "Akata",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385312411&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/06/cherry_magic_7948460.webp?1733334961"
+    },
+    {
+        "nom_manga": "Cherry Magic Vol. 7 - Édition Collector",
+        "date_sortie": "02/01/2025",
+        "prix": "9.95 €",
+        "editeur": "Akata",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385691226&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/73/cherry_magic_vol_7_-_edition_collector1010637.webp?1735643668"
+    },
+    {
+        "nom_manga": "DARK MOON: THE BLOOD ALTAR Vol. 2",
+        "date_sortie": "02/01/2025",
+        "prix": "14.95 €",
+        "editeur": "Neotoon",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782755665239&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/45/dark_moon_the_blood_altar_2_edition_reliee_francaise1007754.webp?1734763337"
+    },
+    {
+        "nom_manga": "Dark Souls Redemption Vol. 2",
+        "date_sortie": "02/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Mana Books",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791035505806&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/81/dark_souls_redemption_21002618.webp?1731656822"
+    },
+    {
+        "nom_manga": "Darwin's Game Vol. 30",
+        "date_sortie": "02/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Ki-oon",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791032719312&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/22/darwin_s_game_30995322.webp?1732305371"
+    },
+    {
+        "nom_manga": "Dr. Brain Vol. 2",
+        "date_sortie": "02/01/2025",
+        "prix": "25 €",
         "editeur": "Kbooks",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382882726&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/02/blood_bank_2_edition_reliee_francaise999620.webp?1715113877"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382882665&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/25/dr_brain_2_edition_reliee_francaise1002752.webp?0"
     },
     {
-        "nom_manga": "Blue Lock Vol. 24",
-        "date_sortie": "04/12/2024",
-        "prix": "7.20 €",
-        "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811693893&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/54/blue_lock_24985345.webp?1727519066"
+        "nom_manga": "Elden Ring - Le Chemin vers l'Arbre-Monde Vol. 6",
+        "date_sortie": "02/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Mana Books",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791035506575&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/27/elden_ring_-_le_chemin_vers_l_arbre-monde_61003372.webp?1731656840"
     },
     {
-        "nom_manga": "Blush Vol. 3",
-        "date_sortie": "04/12/2024",
-        "prix": "7.20 €",
-        "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811692162&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/27/blush_3990272.webp?1727381981"
+        "nom_manga": "Final Fantasy XIV - Académie Éorzéa Vol. 1",
+        "date_sortie": "02/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Mana Books",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791035506544&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/87/final_fantasy_xiv_-_academie_eorzea_1999478.webp?1731656723"
     },
     {
-        "nom_manga": "Cat's Eye Vol. 8",
-        "date_sortie": "04/12/2024",
-        "prix": "16.99 €",
+        "nom_manga": "Gare à la vilaine ! Vol. 2",
+        "date_sortie": "02/01/2025",
+        "prix": "14.90 €",
+        "editeur": "Albin Michel",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782226496485&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/91/gare_a_la_vilaine_2_edition_reliee_francaise1007319.webp?1735643542"
+    },
+    {
+        "nom_manga": "Hito Kui Vol. 9",
+        "date_sortie": "02/01/2025",
+        "prix": "9.99 €",
         "editeur": "Panini",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039126854&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/63/cat_s_eye_8_perfect_edition1002936.webp?1719784992"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039132688&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/67/hito_kui_926076.webp?1735655732"
     },
     {
-        "nom_manga": "Chibi Maruko-chan Vol. 2",
-        "date_sortie": "04/12/2024",
+        "nom_manga": "Jalouses Vol. 3",
+        "date_sortie": "02/01/2025",
         "prix": "7.95 €",
-        "editeur": "Mangetsu",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382814871&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/19/chibi_maruko-chan_240391.webp?1726860730"
+        "editeur": "Akata",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382127414&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/15/jalouses_3979251.webp?1732305506"
     },
     {
-        "nom_manga": "Chiruran Vol. 21",
-        "date_sortie": "04/12/2024",
+        "nom_manga": "Kamisama School Vol. 7",
+        "date_sortie": "02/01/2025",
+        "prix": "6.95 €",
+        "editeur": "Ki-oon",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791032719329&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/07/kamisama_school_7995970.webp?1734794497"
+    },
+    {
+        "nom_manga": "Kindergarten Wars Vol. 6",
+        "date_sortie": "02/01/2025",
         "prix": "7.95 €",
-        "editeur": "Mangetsu",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382818244&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/10/chiruran_21938301.webp?1727276503"
+        "editeur": "Ki-oon",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791032719176&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/08/kindergarten_wars_6993080.webp?1731657387"
     },
     {
-        "nom_manga": "Coffee Moon Vol. 6",
-        "date_sortie": "04/12/2024",
-        "prix": "9.90 €",
-        "editeur": "Doki-Doki",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791041110711&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/15/coffee_moon_61002151.webp?1727899176"
-    },
-    {
-        "nom_manga": "Conqueror of the Dying Kingdom Vol. 5",
-        "date_sortie": "04/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Doki-Doki",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791041111008&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/23/conqueror_of_the_dying_kingdom_51001132.webp?1727899161"
-    },
-    {
-        "nom_manga": "Dandadan Vol. 15",
-        "date_sortie": "04/12/2024",
-        "prix": "7.29 €",
-        "editeur": "Crunchyroll",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820348999&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/80/dandadan_151003008.webp?1727102117"
-    },
-    {
-        "nom_manga": "Dandadan Vol. 15 - Édition Collector",
-        "date_sortie": "04/12/2024",
-        "prix": "19.99 €",
-        "editeur": "Crunchyroll",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820351234&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/52/dandadan_vol_15_-_edition_collector1005125.webp?1729191606"
-    },
-    {
-        "nom_manga": "Demoiselle lapine et le grand méchant léopard Vol. 2",
-        "date_sortie": "04/12/2024",
-        "prix": "14.95 €",
-        "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811692803&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/67/demoiselle_lapine_et_le_grand_mechant_leopard_2_edition_reliee_francaise1003376.webp?1731854798"
-    },
-    {
-        "nom_manga": "Demon Wars Vol. 1",
-        "date_sortie": "04/12/2024",
-        "prix": "10.99 €",
-        "editeur": "N/C",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039130950&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/82/demon_wars_1_nouvelle_edition1002928.webp?1731854952"
-    },
-    {
-        "nom_manga": "Double Vol. 5",
-        "date_sortie": "04/12/2024",
-        "prix": "11 €",
-        "editeur": "Le Lézard Noir",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782353483808&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/75/double_5994057.webp?1730447532"
-    },
-    {
-        "nom_manga": "EVOL Vol. 7",
-        "date_sortie": "04/12/2024",
-        "prix": "19.99 €",
-        "editeur": "Delcourt/Tonkam",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413086772&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/77/evol_7997877.jpg?1719299067"
-    },
-    {
-        "nom_manga": "Fallen Zeus - Le Dieu Suprême et l'esclave Vol. 2",
-        "date_sortie": "04/12/2024",
-        "prix": "7.20 €",
-        "editeur": "nobi nobi!",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782384961429&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/55/fallen_zeus_-_le_dieu_supreme_et_l_esclave_2987355.webp?1727381342"
-    },
-    {
-        "nom_manga": "Four Knights of the Apocalypse Vol. 15",
-        "date_sortie": "04/12/2024",
-        "prix": "7.20 €",
-        "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811693596&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/25/four_knights_of_the_apocalypse_15995852.webp?1727519258"
-    },
-    {
-        "nom_manga": "From FPS to RPG Vol. 4",
-        "date_sortie": "04/12/2024",
-        "prix": "8.50 €",
-        "editeur": "Delcourt/Tonkam",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413075356&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/44/from_fps_to_rpg_4934344.webp?1722241217"
-    },
-    {
-        "nom_manga": "Hachi & Maruru - Chats des rues Vol. 5",
-        "date_sortie": "04/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Doki-Doki",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791041110735&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/37/hachi_maruru_-_chats_des_rues_51000773.webp?1727898973"
-    },
-    {
-        "nom_manga": "Hokkaido Gals Are Super Adorable! Vol. 5",
-        "date_sortie": "04/12/2024",
-        "prix": "7.29 €",
-        "editeur": "Crunchyroll",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820351258&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/91/hokkaido_gals_are_super_adorable_5948719.webp?1730016463"
-    },
-    {
-        "nom_manga": "Hokkaido Gals Are Super Adorable! Vol. 5 - Édition Collector",
-        "date_sortie": "04/12/2024",
-        "prix": "12.99 €",
-        "editeur": "Crunchyroll",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820351326&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/23/hokkaido_gals_are_super_adorable_vol_5_-_edition_collector1009132.webp?1731960316"
-    },
-    {
-        "nom_manga": "Honey Lemon Soda Vol. 6",
-        "date_sortie": "04/12/2024",
-        "prix": "7.20 €",
-        "editeur": "nobi nobi!",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782384962907&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/18/honey_lemon_soda_636881.webp?1727519469"
-    },
-    {
-        "nom_manga": "Host Club - Le lycée de la séduction Vol. 6",
-        "date_sortie": "04/12/2024",
-        "prix": "16.99 €",
-        "editeur": "Panini",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039127646&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/13/host_club_-_le_lycee_de_la_seduction_6_perfect_edition_20241002931.webp?0"
-    },
-    {
-        "nom_manga": "I'm standing on a million lives Vol. 17",
-        "date_sortie": "04/12/2024",
-        "prix": "7.20 €",
-        "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811689384&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/93/i_m_standing_on_a_million_lives_17990239.webp?1727519592"
-    },
-    {
-        "nom_manga": "Iruma à l'école des démons Vol. 26",
-        "date_sortie": "04/12/2024",
-        "prix": "7.20 €",
-        "editeur": "nobi nobi!",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782384962730&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/93/iruma_a_l_ecole_des_demons_26962939.webp?1724779394"
-    },
-    {
-        "nom_manga": "Island Vol. 3",
-        "date_sortie": "04/12/2024",
-        "prix": "14.95 €",
-        "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811689063&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/53/island_3_reedition_pika1003135.webp?1724353029"
-    },
-    {
-        "nom_manga": "J'ai élevé une bête Vol. 3",
-        "date_sortie": "04/12/2024",
-        "prix": "14.95 €",
-        "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811692902&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/63/j_ai_eleve_une_bete_3_edition_reliee_francaise1003136.webp?1726244867"
-    },
-    {
-        "nom_manga": "Jimbōchō Sisters Vol. 3",
-        "date_sortie": "04/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Mangetsu",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382817902&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/42/jimbychy_sisters_3985624.webp?1727276512"
-    },
-    {
-        "nom_manga": "JoJo's Bizarre Adventure - Saison 7 - Steel Ball Run Coffret Vol. 1 à 12",
-        "date_sortie": "04/12/2024",
-        "prix": "89.95 €",
-        "editeur": "Tonkam",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413085010&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/22/jojo_s_bizarre_adventure_-_saison_7_-_steel_ball_run_coffret_vol_1_a_121009122.webp?1730974315"
-    },
-    {
-        "nom_manga": "Junjo Romantica Vol. 28",
-        "date_sortie": "04/12/2024",
-        "prix": "7.99 €",
-        "editeur": "Kazé",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820348739&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/97/junjo_romantica_28982679.webp?1731481964"
-    },
-    {
-        "nom_manga": "Keiji Vol. 18",
-        "date_sortie": "04/12/2024",
+        "nom_manga": "Land Vol. 11",
+        "date_sortie": "02/01/2025",
         "prix": "9.95 €",
         "editeur": "Mangetsu",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382816318&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/97/keiji_18_reedition_20211003379.webp?1730501981"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382819340&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/58/land_11938685.webp?1729965739"
     },
     {
-        "nom_manga": "Ken, Fist of the blue sky Vol. 14",
-        "date_sortie": "04/12/2024",
-        "prix": "12.90 €",
-        "editeur": "Mangetsu",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382816745&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/38/ken_fist_of_the_blue_sky_14_reedition_20211005183.webp?1731091884"
+        "nom_manga": "Le Cri du Kujima Vol. 3",
+        "date_sortie": "02/01/2025",
+        "prix": "12 €",
+        "editeur": "Le Lézard Noir",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782353483839&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/65/le_cri_du_kujima_3993056.webp?1729020708"
     },
     {
-        "nom_manga": "Kill Blue Vol. 2",
-        "date_sortie": "04/12/2024",
+        "nom_manga": "Lili-Men Vol. 1",
+        "date_sortie": "02/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Ki-oon",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791032718049&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/25/lili-men_1979652.webp?1731580593"
+    },
+    {
+        "nom_manga": "Magical Revolution - La Princesse réincarnée et la jeune prodige Vol. 4",
+        "date_sortie": "02/01/2025",
         "prix": "7.29 €",
         "editeur": "Crunchyroll",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820351265&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/06/kill_blue_2993260.webp?1729021112"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820348784&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/83/magical_revolution_-_la_princesse_reincarnee_et_la_jeune_prodige_4980138.webp?1732305545"
     },
     {
-        "nom_manga": "Komi cherche ses mots Vol. 16",
-        "date_sortie": "04/12/2024",
-        "prix": "7.20 €",
-        "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811690366&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/69/komi_cherche_ses_mots_1648896.webp?1727519242"
+        "nom_manga": "Mon oncle est une star de Kpop Vol. 1",
+        "date_sortie": "02/01/2025",
+        "prix": "14.95 €",
+        "editeur": "Kbooks",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382881071&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/29/mon_oncle_est_une_star_de_kpop_1_edition_reliee_francaise1005792.webp?1735643521"
     },
     {
-        "nom_manga": "Kore Kaite Shine Vol. 3",
-        "date_sortie": "04/12/2024",
-        "prix": "8.29 €",
-        "editeur": "Panini",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039127660&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/03/kore_egaite_shine_3983830.webp?1719219285"
+        "nom_manga": "My Hero Academia - Team Up Mission Vol. 6",
+        "date_sortie": "02/01/2025",
+        "prix": "6.95 €",
+        "editeur": "Ki-oon",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791032719305&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/84/my_hero_academia_-_team_up_mission_6998948.webp?1732305411"
     },
     {
-        "nom_manga": "La Romancière et le mercenaire Vol. 3",
-        "date_sortie": "04/12/2024",
+        "nom_manga": "Neeting Life Vol. 2",
+        "date_sortie": "02/01/2025",
         "prix": "7.95 €",
-        "editeur": "Doki-Doki",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791041109302&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/45/la_romanciere_et_le_mercenaire_3999654.webp?1727899041"
+        "editeur": "Ki-oon",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791032716748&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/00/neeting_life_2982600.webp?1734855412"
     },
     {
-        "nom_manga": "Le Dragon sous le croissant de lune Vol. 3",
-        "date_sortie": "04/12/2024",
-        "prix": "8.50 €",
-        "editeur": "Le Lézard Noir",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782353483778&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/35/le_dragon_sous_le_croissant_de_lune_31000853.webp?1730378039"
+        "nom_manga": "Nine Peaks Vol. 4",
+        "date_sortie": "02/01/2025",
+        "prix": "6.95 €",
+        "editeur": "Ki-oon",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791032719213&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/29/nine_peaks_4984092.webp?1734855436"
     },
     {
-        "nom_manga": "Le Fantastique voyage de Nicola au pays des démons Vol. 2",
-        "date_sortie": "04/12/2024",
-        "prix": "10.90 €",
-        "editeur": "nobi nobi!",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782384963065&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/72/le_fantastique_voyage_de_nicola_au_pays_des_demons_2948327.webp?1729019311"
-    },
-    {
-        "nom_manga": "Le Huitième fils Vol. 12",
-        "date_sortie": "04/12/2024",
-        "prix": "8.50 €",
-        "editeur": "Delcourt/Tonkam",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413083221&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/88/le_huitieme_fils_12980388.webp?1729279742"
-    },
-    {
-        "nom_manga": "Le vendeur du magasin de vélos Vol. 6",
-        "date_sortie": "04/12/2024",
-        "prix": "8.50 €",
-        "editeur": "Le Lézard Noir",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782353483761&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/94/le_vendeur_du_magasin_de_velos_6981749.webp?1730447679"
-    },
-    {
-        "nom_manga": "Limit Vol. 6",
-        "date_sortie": "04/12/2024",
-        "prix": "7.20 €",
-        "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811674359&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/61/limit_6993316.webp?1727519651"
-    },
-    {
-        "nom_manga": "Lycoris Recoil - Reload Vol. 1",
-        "date_sortie": "04/12/2024",
-        "prix": "7.29 €",
-        "editeur": "Panini",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039130943&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/39/lycoris_recoil_-_reload_1979293.webp?1731091974"
-    },
-    {
-        "nom_manga": "MMA - Mixed Martial Artists Vol. 13",
-        "date_sortie": "04/12/2024",
-        "prix": "7.70 €",
-        "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811693626&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/66/mma_-_mixed_martial_artists_13942466.webp?1727519547"
-    },
-    {
-        "nom_manga": "Momo's Medical History Vol. 3",
-        "date_sortie": "04/12/2024",
-        "prix": "7.29 €",
-        "editeur": "Panini",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039127103&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/36/momo_s_medical_history_31002363.webp?1730447723"
-    },
-    {
-        "nom_manga": "Mynoghra - Annonciateur de l'Apocalypse Vol. 4",
-        "date_sortie": "04/12/2024",
-        "prix": "8.50 €",
-        "editeur": "Delcourt/Tonkam",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413081586&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/32/mynoghra_-_annonciateur_de_l_apocalypse_4981623.webp?1726859477"
-    },
-    {
-        "nom_manga": "New Authentic Magical Girl Vol. 4",
-        "date_sortie": "04/12/2024",
-        "prix": "8.50 €",
-        "editeur": "Delcourt/Tonkam",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413079453&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/08/new_authentic_magical_girl_4969980.webp?1720879558"
-    },
-    {
-        "nom_manga": "Noblesse Vol. 6",
-        "date_sortie": "04/12/2024",
+        "nom_manga": "Ombres et Lumières Vol. 2",
+        "date_sortie": "02/01/2025",
         "prix": "14.95 €",
-        "editeur": "Kbooks",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382881064&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/23/noblesse_6_edition_reliee_francaise1002932.webp?0"
+        "editeur": "KaMondo Books",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791041200887&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/39/ombres_et_lumieres_2_edition_reliee_francaise992693.webp?1729965785"
     },
     {
-        "nom_manga": "Orient - Samurai Quest Vol. 21",
-        "date_sortie": "04/12/2024",
-        "prix": "7.20 €",
-        "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811694944&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/78/orient_-_samurai_quest_211000787.webp?1727519562"
-    },
-    {
-        "nom_manga": "Phénix, l'oiseau de feu Vol. 6",
-        "date_sortie": "04/12/2024",
-        "prix": "29.99 €",
-        "editeur": "Delcourt/Tonkam",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413039945&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/33/phenix_l_oiseau_de_feu_6_edition_prestige1002933.webp?1729675696"
-    },
-    {
-        "nom_manga": "Plum, un amour de chat Vol. 21",
-        "date_sortie": "04/12/2024",
-        "prix": "8.50 €",
-        "editeur": "Soleil",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782302099050&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/10/plum_un_amour_de_chat_vol_21934601.webp?1719299099"
-    },
-    {
-        "nom_manga": "Queen's Quality Vol. 22",
-        "date_sortie": "04/12/2024",
-        "prix": "6.99 €",
-        "editeur": "Kazé",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820349019&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/39/queen_s_quality_22998993.webp?1729021055"
-    },
-    {
-        "nom_manga": "Racaille Blues Vol. 16",
-        "date_sortie": "04/12/2024",
+        "nom_manga": "Pandora Hearts Vol. 1",
+        "date_sortie": "02/01/2025",
         "prix": "16 €",
-        "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811668464&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/39/racaille_blues_16_bunko963193.webp?1727894700"
+        "editeur": "Ki-oon",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791032720103&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/84/pandora_hearts_1_perfect_edition1007748.webp?1735643570"
     },
     {
-        "nom_manga": "Racaille de bibliothèque Vol. 2",
-        "date_sortie": "04/12/2024",
-        "prix": "7.20 €",
-        "editeur": "nobi nobi!",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782384960491&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/85/racaille_de_bibliotheque_2974558.webp?1727519422"
+        "nom_manga": "Reality Quest Vol. 3",
+        "date_sortie": "02/01/2025",
+        "prix": "15.95 €",
+        "editeur": "KaMondo Books",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791041200481&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/67/reality_quest_3_edition_reliee_francaise987076.webp?1729965874"
     },
     {
-        "nom_manga": "Saint Seiya - Next Dimension - Le mythe d'Hadès Vol. 15",
-        "date_sortie": "04/12/2024",
-        "prix": "9.29 €",
-        "editeur": "Panini",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039131841&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/75/saint_seiya_-_next_dimension_-_le_mythe_d_hades_151000657.webp?1728981527"
+        "nom_manga": "Reincarnated as an Aristocrat - Dénicheur de talent Vol. 3",
+        "date_sortie": "02/01/2025",
+        "prix": "7.99 €",
+        "editeur": "Crunchyroll",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820352088&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/34/reincarnated_as_an_aristocrat_-_denicheur_de_talent_3959143.webp?1734855535"
     },
     {
-        "nom_manga": "Scar and Romance Vol. 4",
-        "date_sortie": "04/12/2024",
-        "prix": "7.20 €",
-        "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811688042&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/63/scar_and_romance_4978836.webp?1727519227"
+        "nom_manga": "Ron Kamonohashi - Deranged Detective Vol. 12",
+        "date_sortie": "02/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Mangetsu",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382814550&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/48/ron_kamonohashi_-_deranged_detective_12992084.webp?1734854690"
     },
     {
-        "nom_manga": "Snowball Earth Vol. 7",
-        "date_sortie": "04/12/2024",
-        "prix": "7.29 €",
-        "editeur": "Panini",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039125543&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/93/snowball_earth_71000639.webp?1719298504"
-    },
-    {
-        "nom_manga": "Solo Leveling Vol. 16",
-        "date_sortie": "04/12/2024",
-        "prix": "14.95 €",
-        "editeur": "Kbooks",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382882924&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/08/solo_leveling_16_edition_reliee_francaise1001680.webp?0"
-    },
-    {
-        "nom_manga": "Splatoon - La Contrée Clabousse Vol. 4",
-        "date_sortie": "04/12/2024",
-        "prix": "8.50 €",
-        "editeur": "Soleil",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782302103979&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/71/splatoon_-_la_contree_clabousse_41000717.webp?1729279823"
-    },
-    {
-        "nom_manga": "Striker Vol. 4",
-        "date_sortie": "04/12/2024",
-        "prix": "16.99 €",
-        "editeur": "Panini",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039127677&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/13/striker_4_reedition_deluxe_spriggan1002731.webp?1727789700"
-    },
-    {
-        "nom_manga": "Studio Cabana Vol. 5",
-        "date_sortie": "04/12/2024",
-        "prix": "8.50 €",
-        "editeur": "Delcourt/Tonkam",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413084662&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/49/studio_cabana_5989994.webp?1728737952"
-    },
-    {
-        "nom_manga": "Tales of Demons and Gods Vol. 26",
-        "date_sortie": "04/12/2024",
+        "nom_manga": "Salad Days Vol. 6",
+        "date_sortie": "02/01/2025",
         "prix": "8.95 €",
         "editeur": "Nazca",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782494400511&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/08/tales_of_demons_and_gods_26_edition_reliee_francaise1003280.webp?0"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782494400399&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/42/salad_days_6_edition_reliee_francaise1001224.webp?1731775014"
     },
     {
-        "nom_manga": "Tanya the Evil Vol. 21",
-        "date_sortie": "04/12/2024",
+        "nom_manga": "Smile ! Vol. 2",
+        "date_sortie": "02/01/2025",
+        "prix": "8.20 €",
+        "editeur": "Mangetsu",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382817971&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/43/smile_2982134.webp?1727899368"
+    },
+    {
+        "nom_manga": "Tant que nous serons ensemble Vol. 7",
+        "date_sortie": "02/01/2025",
+        "prix": "8.05 €",
+        "editeur": "Akata",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382124598&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/12/tant_que_nous_serons_ensemble_7959821.webp?1732386718"
+    },
+    {
+        "nom_manga": "Tant que nous serons ensemble Vol. 8",
+        "date_sortie": "02/01/2025",
+        "prix": "8.05 €",
+        "editeur": "Akata",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382126974&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/41/tant_que_nous_serons_ensemble_8981014.webp?1732386738"
+    },
+    {
+        "nom_manga": "The Legendary Hero is Dead! Vol. 5",
+        "date_sortie": "02/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Mana Books",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791035506551&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/61/the_legendary_hero_is_dead_5940516.webp?1731656744"
+    },
+    {
+        "nom_manga": "Villageois LVL 999 Vol. 11",
+        "date_sortie": "02/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Mana Books",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791035506582&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/04/villageois_lvl_999_11962240.webp?1731656760"
+    },
+    {
+        "nom_manga": "World Trigger Vol. 27",
+        "date_sortie": "02/01/2025",
+        "prix": "6.89 €",
+        "editeur": "Kazé",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820349064&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/68/world_trigger_271000886.webp?1731141249"
+    },
+    {
+        "nom_manga": "404 Démons Vol. 4",
+        "date_sortie": "08/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Doki-Doki",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791041109296&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/05/404_demons_4997650.webp?1734508578"
+    },
+    {
+        "nom_manga": "A Couple of Cuckoos Vol. 18",
+        "date_sortie": "08/01/2025",
+        "prix": "7.20 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811696931&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/74/a_couple_of_cuckoos_18989947.webp?1730436914"
+    },
+    {
+        "nom_manga": "All-Guy's Mixer Vol. 3",
+        "date_sortie": "08/01/2025",
+        "prix": "8.50 €",
+        "editeur": "Soleil",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782302102484&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/61/all-guy_s_mixer_3964316.webp?1726775197"
+    },
+    {
+        "nom_manga": "ALL OUT!! Vol. 9",
+        "date_sortie": "08/01/2025",
+        "prix": "7.70 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811683016&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/49/all_out_932794.webp?1730663102"
+    },
+    {
+        "nom_manga": "Aozora Yell - Un amour en fanfare Vol. 18",
+        "date_sortie": "08/01/2025",
+        "prix": "8.29 €",
+        "editeur": "Panini",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039132640&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/21/aozora_yell_-_un_amour_en_fanfare_18_reedition_20211011612.webp?0"
+    },
+    {
+        "nom_manga": "Ariadne, l'empire céleste Vol. 21",
+        "date_sortie": "08/01/2025",
+        "prix": "7.20 €",
+        "editeur": "Glénat",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782344059906&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/60/ariadne_l_empire_celeste_21981406.webp?1732819398"
+    },
+    {
+        "nom_manga": "Aux cotés du Dieu-Loup Vol. 2",
+        "date_sortie": "08/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Doki-Doki",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791041111800&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/66/aux_cotes_du_dieu-loup_21004266.webp?1731004736"
+    },
+    {
+        "nom_manga": "Babel - The New Hakkenden Vol. 5",
+        "date_sortie": "08/01/2025",
+        "prix": "19.99 €",
+        "editeur": "Crunchyroll",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820351418&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/71/babel_-_the_new_hakkenden_5951417.webp?1734855573"
+    },
+    {
+        "nom_manga": "Blue Box Vol. 8",
+        "date_sortie": "08/01/2025",
+        "prix": "7.29 €",
+        "editeur": "Delcourt/Tonkam",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413080718&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/61/blue_box_8978816.webp?1726775159"
+    },
+    {
+        "nom_manga": "Chihayafuru Vol. 48",
+        "date_sortie": "08/01/2025",
+        "prix": "7.70 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811696795&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/20/chihayafuru_48962002.webp?1730663148"
+    },
+    {
+        "nom_manga": "Come to me - Wedding Vol. 14",
+        "date_sortie": "08/01/2025",
+        "prix": "7.29 €",
+        "editeur": "Soleil",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782302104969&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/02/come_to_me_-_wedding_14998520.webp?1732368670"
+    },
+    {
+        "nom_manga": "Craque pour moi, Medaka ! Vol. 5",
+        "date_sortie": "08/01/2025",
+        "prix": "7.20 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811697136&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/90/craque_pour_moi_medaka_5971509.webp?1730436905"
+    },
+    {
+        "nom_manga": "DEAD Tube Vol. 23",
+        "date_sortie": "08/01/2025",
         "prix": "8.50 €",
         "editeur": "Delcourt/Tonkam",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413047001&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/03/tanya_the_evil_21951930.webp?1710693022"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413086604&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/91/dead_tube_23995619.webp?1726775122"
     },
     {
-        "nom_manga": "Terrarium Coffret Intégrale",
-        "date_sortie": "04/12/2024",
-        "prix": "31.60 €",
+        "nom_manga": "Dragon Quest - La quête de Dai Vol. 11",
+        "date_sortie": "08/01/2025",
+        "prix": "12.99 €",
+        "editeur": "Delcourt/Tonkam",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413079835&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/46/dragon_quest_-_la_quete_de_dai_11_dragon_quest_-_the_adventure_of_dai947264.webp?1735644439"
+    },
+    {
+        "nom_manga": "Edens Zero Vol. 33",
+        "date_sortie": "08/01/2025",
+        "prix": "7.20 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811694975&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/29/edens_zero_331004192.webp?1730465847"
+    },
+    {
+        "nom_manga": "Ender Geister Vol. 11",
+        "date_sortie": "08/01/2025",
+        "prix": "7.90 €",
         "editeur": "Glénat",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782344064320&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/19/terrarium_coffret_integrale1008291.webp?1732566621"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782344067284&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/06/ender_geister_11989060.webp?1729965594"
     },
     {
-        "nom_manga": "The Eminence in Shadow Vol. 13",
-        "date_sortie": "04/12/2024",
-        "prix": "7.50 €",
+        "nom_manga": "From 5 to 9 Vol. 1",
+        "date_sortie": "08/01/2025",
+        "prix": "8.29 €",
+        "editeur": "Panini",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039132657&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/61/from_5_to_9_1_reedition_20251005916.webp?1735648735"
+    },
+    {
+        "nom_manga": "Goddesses Cafe Terrace Vol. 10",
+        "date_sortie": "08/01/2025",
+        "prix": "7.20 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811697259&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/00/goddesses_cafe_terrace_10983300.webp?1730436891"
+    },
+    {
+        "nom_manga": "Golden Gold Vol. 9",
+        "date_sortie": "08/01/2025",
+        "prix": "8.50 €",
+        "editeur": "Le Lézard Noir",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782353482979&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/70/golden_gold_9958707.webp?1735655386"
+    },
+    {
+        "nom_manga": "Helck Vol. 7",
+        "date_sortie": "08/01/2025",
+        "prix": "7.95 €",
         "editeur": "Doki-Doki",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791041110728&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/30/the_eminence_in_shadow_131001103.webp?1727899081"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791041104406&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/81/helck_7975118.webp?1731775066"
+    },
+    {
+        "nom_manga": "Island - Hell on Jeju Vol. 1",
+        "date_sortie": "08/01/2025",
+        "prix": "15.95 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811650735&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/44/island_-_hell_on_jeju_11012044.webp?0"
+    },
+    {
+        "nom_manga": "Kaguya-sama - Love is War Vol. 24",
+        "date_sortie": "08/01/2025",
+        "prix": "7.20 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811691868&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/37/kaguya-sama_-_love_is_war_24959673.webp?1730436986"
+    },
+    {
+        "nom_manga": "Kaiju N°8 Vol. 13",
+        "date_sortie": "08/01/2025",
+        "prix": "6.99 €",
+        "editeur": "Kazé",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820348937&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/00/kaiju_n_8_131002800.webp?1729675853"
+    },
+    {
+        "nom_manga": "Kaiju N°8 Side B Vol. 1",
+        "date_sortie": "08/01/2025",
+        "prix": "6.99 €",
+        "editeur": "Crunchyroll",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820351791&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/60/kaiju_n_8_side_b_1999706.webp?1730436976"
+    },
+    {
+        "nom_manga": "Kaiju N°8 Vol. 13 - Édition Collector",
+        "date_sortie": "08/01/2025",
+        "prix": "6.99 €",
+        "editeur": "Kazé",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820351319&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/24/kaiju_n_8_vol_13_-_edition_collector1005142.webp?1735651290"
+    },
+    {
+        "nom_manga": "Kirio Fanclub Vol. 1",
+        "date_sortie": "08/01/2025",
+        "prix": "8.50 €",
+        "editeur": "Le Lézard Noir",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782353483938&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/93/kirio_fanclub_1994739.webp?1729020644"
+    },
+    {
+        "nom_manga": "Kirio Fanclub Vol. 2",
+        "date_sortie": "08/01/2025",
+        "prix": "8.50 €",
+        "editeur": "Le Lézard Noir",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782353483945&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/04/kirio_fanclub_2994740.webp?1729020672"
+    },
+    {
+        "nom_manga": "L'Impératrice Remariée Vol. 3",
+        "date_sortie": "08/01/2025",
+        "prix": "14.95 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811689292&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/67/l_imperatrice_remariee_3_edition_reliee_francaise1007076.webp?1731656615"
+    },
+    {
+        "nom_manga": "La Fin du système... Vol. 1",
+        "date_sortie": "08/01/2025",
+        "prix": "8.50 €",
+        "editeur": "Delcourt/Tonkam",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413081081&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/53/la_fin_du_systeme_1973635.webp?1732368738"
+    },
+    {
+        "nom_manga": "Le Charme de l'uniforme Vol. 6",
+        "date_sortie": "08/01/2025",
+        "prix": "7.29 €",
+        "editeur": "Soleil",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782302101869&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/77/le_charme_de_l_uniforme_6979077.webp?1726775223"
+    },
+    {
+        "nom_manga": "Le Nouvel Angyo Onshi Vol. 4",
+        "date_sortie": "08/01/2025",
+        "prix": "15.95 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811679712&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/77/le_nouvel_angyo_onshi_4_reedition_blade_of_the_phantom_master1007077.webp?1731656519"
+    },
+    {
+        "nom_manga": "Les Aventures de Kirby dans les étoiles Vol. 24",
+        "date_sortie": "08/01/2025",
+        "prix": "7.29 €",
+        "editeur": "Soleil",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782302091757&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/33/les_aventures_de_kirby_dans_les_etoiles_24938733.webp?1726775256"
+    },
+    {
+        "nom_manga": "Le Secret de la souris Vol. 4",
+        "date_sortie": "08/01/2025",
+        "prix": "7.29 €",
+        "editeur": "Delcourt/Tonkam",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413079491&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/67/le_secret_de_la_souris_4960576.webp?1726905542"
+    },
+    {
+        "nom_manga": "Les Quatre Frères Yuzuki Vol. 7",
+        "date_sortie": "08/01/2025",
+        "prix": "7.20 €",
+        "editeur": "nobi nobi!",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782384963478&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/38/les_quatre_freres_yuzuki_7938683.webp?1727899116"
+    },
+    {
+        "nom_manga": "Lord of the Fans Vol. 1",
+        "date_sortie": "08/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Doki-Doki",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791041111015&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/12/lord_of_the_fans_11005821.webp?1732008752"
+    },
+    {
+        "nom_manga": "Lycoris Recoil - Repeat Vol. 2",
+        "date_sortie": "08/01/2025",
+        "prix": "7.29 €",
+        "editeur": "Panini",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039132695&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/48/lycoris_recoil_koushiki_comic_anthology_-_repeat_2982584.webp?1732368765"
+    },
+    {
+        "nom_manga": "Medalist Vol. 6",
+        "date_sortie": "08/01/2025",
+        "prix": "7.20 €",
+        "editeur": "nobi nobi!",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782384961955&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/85/medalist_6970158.webp?1730414863"
+    },
+    {
+        "nom_manga": "My Second Love, Hayami-kun Vol. 2",
+        "date_sortie": "08/01/2025",
+        "prix": "7.29 €",
+        "editeur": "Soleil",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782302105003&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/55/my_second_love_hayami-kun_2996255.webp?1729800810"
+    },
+    {
+        "nom_manga": "One Operation Joker Vol. 2",
+        "date_sortie": "08/01/2025",
+        "prix": "7.70 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811697921&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/47/one_operation_joker_2984974.webp?1730663224"
+    },
+    {
+        "nom_manga": "One Piece Coffret Vol. 62 à 70 - Fish Man Island (Vide)",
+        "date_sortie": "08/01/2025",
+        "prix": "7.20 €",
+        "editeur": "Glénat",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782344062678&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/12/one_piece_coffret_vol_62_a_70_-_fish_man_island_vide1009121.webp?0"
+    },
+    {
+        "nom_manga": "Rave Vol. 5",
+        "date_sortie": "08/01/2025",
+        "prix": "14.95 €",
+        "editeur": "Glénat",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782344060452&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/95/rave_5_edition_originale5359.webp?1732368795"
+    },
+    {
+        "nom_manga": "Sakamoto Days Vol. 16",
+        "date_sortie": "08/01/2025",
+        "prix": "7.20 €",
+        "editeur": "Glénat",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782344061923&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/69/sakamoto_days_16999596.webp?1729965577"
+    },
+    {
+        "nom_manga": "Secret Bodyguard Vol. 1",
+        "date_sortie": "08/01/2025",
+        "prix": "7.20 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811685669&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/65/secret_bodyguard_1979656.webp?1730663243"
+    },
+    {
+        "nom_manga": "Sidooh Sunrise Vol. 1",
+        "date_sortie": "08/01/2025",
+        "prix": "8.29 €",
+        "editeur": "Panini",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039132718&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/02/sidooh_sunrise_11006620.webp?1734763522"
+    },
+    {
+        "nom_manga": "Tellement flou d'elle ! Vol. 5",
+        "date_sortie": "08/01/2025",
+        "prix": "7.20 €",
+        "editeur": "nobi nobi!",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782384963805&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/67/tellement_flou_d_elle_5930776.webp?1729191388"
     },
     {
         "nom_manga": "The Fable Vol. 19",
-        "date_sortie": "04/12/2024",
+        "date_sortie": "08/01/2025",
         "prix": "8.50 €",
         "editeur": "Pika",
         "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811657253&books",
         "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/32/the_fable_1937223.webp?1727519304"
     },
     {
-        "nom_manga": "The God of High School Vol. 8",
-        "date_sortie": "04/12/2024",
+        "nom_manga": "The Legendary Moonlight Sculptor Vol. 2",
+        "date_sortie": "08/01/2025",
         "prix": "14.95 €",
         "editeur": "Kbooks",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382883020&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/53/the_god_of_high_school_8_edition_reliee_francaise1002935.webp?1731854982"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382881989&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/99/the_legendary_moonlight_sculptor_2_edition_reliee_francaise1005799.webp?1726905560"
     },
     {
-        "nom_manga": "The World After the Fall Vol. 3",
-        "date_sortie": "04/12/2024",
-        "prix": "14.95 €",
+        "nom_manga": "The Unexpected Goddess Vol. 3",
+        "date_sortie": "08/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Doki-Doki",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791041111794&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/35/the_unexpected_goddess_31003353.webp?1730664640"
+    },
+    {
+        "nom_manga": "Welcome back, Alice Vol. 7",
+        "date_sortie": "08/01/2025",
+        "prix": "7.95 €",
         "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811689254&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/73/the_world_after_the_fall_3_edition_reliee_francaise1003137.webp?1726244876"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811697396&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/29/welcome_back_alice_7992292.webp?1730436960"
     },
     {
-        "nom_manga": "Today's Burger Vol. 7",
-        "date_sortie": "04/12/2024",
-        "prix": "8.50 €",
-        "editeur": "Soleil",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782302103986&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/99/today_s_burger_7984499.webp?1719299323"
-    },
-    {
-        "nom_manga": "Tomb Raider King Vol. 2",
-        "date_sortie": "04/12/2024",
-        "prix": "15.95 €",
-        "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811689278&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/63/tomb_raider_king_2_edition_reliee_francaise1005536.webp?0"
-    },
-    {
-        "nom_manga": "To Your Eternity Vol. 22",
-        "date_sortie": "04/12/2024",
+        "nom_manga": "Wistoria - Wand and Sword Vol. 3",
+        "date_sortie": "08/01/2025",
         "prix": "7.20 €",
         "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811691998&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/61/to_your_eternity_221002616.webp?1727519378"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811697518&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/30/wistoria_-_wand_and_sword_3978003.webp?1730663269"
     },
     {
-        "nom_manga": "Twin Star Exorcists Vol. 33",
-        "date_sortie": "04/12/2024",
-        "prix": "7.15 €",
+        "nom_manga": "Yakuza Reincarnation Vol. 15",
+        "date_sortie": "08/01/2025",
+        "prix": "7.99 €",
         "editeur": "Kazé",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820349040&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/41/twin_star_exorcists_33996614.webp?1729021126"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820348920&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/80/yakuza_reincarnation_151004608.webp?1734183534"
     },
     {
-        "nom_manga": "Undead Girl Murder Farce Vol. 5",
-        "date_sortie": "04/12/2024",
-        "prix": "8.29 €",
-        "editeur": "Panini",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039129299&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/72/undead_girl_murder_farce_5989927.webp?1719298594"
+        "nom_manga": "You're my Soulmate Vol. 4",
+        "date_sortie": "08/01/2025",
+        "prix": "7.20 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811695002&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/42/you_re_my_soulmate_4989824.webp?1730436944"
     },
     {
-        "nom_manga": "Un dragon dans ma cuisine Vol. 3",
-        "date_sortie": "04/12/2024",
+        "nom_manga": "À quoi tu joues, Ayumu ?! Vol. 13",
+        "date_sortie": "08/01/2025",
         "prix": "7.20 €",
         "editeur": "nobi nobi!",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782384962532&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/21/un_dragon_dans_ma_cuisine_346512.webp?1727381418"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782384964062&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/54/a_quoi_tu_joues_ayumu_y_13978045.webp?1729621320"
     },
     {
-        "nom_manga": "Un second au revoir Vol. 4",
-        "date_sortie": "04/12/2024",
-        "prix": "8.50 €",
-        "editeur": "Delcourt/Tonkam",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413085874&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/62/un_second_au_revoir_41000626.webp?1729191416"
+        "nom_manga": "Éclipse Humaine Vol. 2",
+        "date_sortie": "08/01/2025",
+        "prix": "7.90 €",
+        "editeur": "Glénat",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782344064344&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/73/eclipse_humaine_2992237.webp?1732368842"
     },
     {
-        "nom_manga": "Vampire Knight Vol. 8",
-        "date_sortie": "04/12/2024",
-        "prix": "16.99 €",
-        "editeur": "Panini",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039127653&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/55/vampire_knight_8_perfect_edition1002755.webp?0"
-    },
-    {
-        "nom_manga": "Versus Vol. 2",
-        "date_sortie": "04/12/2024",
-        "prix": "7.20 €",
-        "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811692599&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/74/versus_2992947.webp?1727519444"
-    },
-    {
-        "nom_manga": "Villainess Level 99 Vol. 4",
-        "date_sortie": "04/12/2024",
-        "prix": "8.50 €",
-        "editeur": "Soleil",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782302104365&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/91/villainess_level_99_4997419.webp?1732304904"
-    },
-    {
-        "nom_manga": "Wind Breaker (Nii Satoru) Vol. 13",
-        "date_sortie": "04/12/2024",
-        "prix": "7.20 €",
-        "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811689407&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/88/wind_breaker_nii_satoru_13989988.webp?1727519151"
-    },
-    {
-        "nom_manga": "Yoku-Oni Vol. 7",
-        "date_sortie": "04/12/2024",
-        "prix": "7.70 €",
-        "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811685812&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/44/yoku-oni_7933944.webp?1731959933"
-    },
-    {
-        "nom_manga": "Yona, Princesse de l'Aube Vol. 43",
-        "date_sortie": "04/12/2024",
-        "prix": "7.20 €",
-        "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811694593&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/82/yona_princesse_de_l_aube_43997128.webp?1728981510"
-    },
-    {
-        "nom_manga": "Yona, Princesse de l'Aube Vol. 43 - Édition collector",
-        "date_sortie": "04/12/2024",
-        "prix": "12.90 €",
-        "editeur": "Pika",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811694913&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/63/yona_princesse_de_l_aube_vol_43_-_edition_collector1002136.webp?1717178727"
-    },
-    {
-        "nom_manga": "008 : Apprenti Espion Vol. 16",
-        "date_sortie": "05/12/2024",
-        "prix": "7.20 €",
-        "editeur": "Kurokawa",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791042014834&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/74/008_apprenti_espion_16957047.webp?1725552187"
-    },
-    {
-        "nom_manga": "365 Days to the Wedding Vol. 6",
-        "date_sortie": "05/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Mana Books",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791035505813&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/32/365_days_to_the_wedding_6962623.webp?1729020889"
-    },
-    {
-        "nom_manga": "Akane-banashi Vol. 8",
-        "date_sortie": "05/12/2024",
-        "prix": "6.95 €",
-        "editeur": "Ki-oon",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791032715895&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/06/akane-banashi_8991560.webp?1729679410"
-    },
-    {
-        "nom_manga": "Clevatess Vol. 7",
-        "date_sortie": "05/12/2024",
-        "prix": "8.95 €",
-        "editeur": "Ki-oon",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791032717325&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/32/clevatess_71001223.webp?1732367490"
-    },
-    {
-        "nom_manga": "Comment j'ai survécu au manoir Wynknight Vol. 6",
-        "date_sortie": "05/12/2024",
-        "prix": "14.95 €",
-        "editeur": "Kotoon",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782494102545&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/60/comment_j_ai_survecu_au_manoir_wynknight_6_edition_reliee_francaise1002606.webp?1729279925"
-    },
-    {
-        "nom_manga": "Dans la peau de Miwa Vol. 3",
-        "date_sortie": "05/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Kurokawa",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791042015145&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/37/dans_la_peau_de_miwa_3963273.webp?1729279933"
-    },
-    {
-        "nom_manga": "Dark Gathering Vol. 6",
-        "date_sortie": "05/12/2024",
-        "prix": "6.95 €",
-        "editeur": "Mana Books",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791035505639&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/41/dark_gathering_6947114.webp?1728497539"
-    },
-    {
-        "nom_manga": "Demon Slave Vol. 15",
-        "date_sortie": "05/12/2024",
-        "prix": "7.20 €",
-        "editeur": "Kurokawa",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791042014841&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/31/demon_slave_15995513.webp?1727519000"
-    },
-    {
-        "nom_manga": "En selle, Sakamichi ! Vol. 5",
-        "date_sortie": "05/12/2024",
-        "prix": "7.20 €",
-        "editeur": "Kurokawa",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791042015008&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/20/en_selle_sakamichi_537302.webp?1724352475"
-    },
-    {
-        "nom_manga": "Face aux étoiles Vol. 2",
-        "date_sortie": "05/12/2024",
+        "nom_manga": "Black Rose Alice D.C. al fine Vol. 2",
+        "date_sortie": "09/01/2025",
         "prix": "7.10 €",
         "editeur": "Akata",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382127063&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/23/face_aux_etoiles_21003832.webp?1729184560"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382126820&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/88/black_rose_alice_d_c_al_fine_2978088.webp?1732305615"
     },
     {
-        "nom_manga": "Frieren Vol. 13",
-        "date_sortie": "05/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Ki-oon",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791032716113&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/80/frieren_13998608.webp?1732444016"
-    },
-    {
-        "nom_manga": "Frieren Anthologie Vol. 1",
-        "date_sortie": "05/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Ki-oon",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791032719060&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/61/frieren_anthologie_1996216.webp?1726220634"
-    },
-    {
-        "nom_manga": "Heart Gear Vol. 5",
-        "date_sortie": "05/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Ki-oon",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791032707999&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/04/heart_gear_5999340.webp?1732870010"
-    },
-    {
-        "nom_manga": "Hero Ticket Vol. 4",
-        "date_sortie": "05/12/2024",
-        "prix": "12.95 €",
-        "editeur": "Michel Lafon",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782749957180&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/57/hero_ticket_4_edition_reliee_francaise1004575.webp?1730665230"
-    },
-    {
-        "nom_manga": "Ippo Vol. 28",
-        "date_sortie": "05/12/2024",
-        "prix": "7.20 €",
-        "editeur": "Kurokawa",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791042014858&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/65/ippo_28_saison_6_-_the_fighting982556.webp?1724352478"
-    },
-    {
-        "nom_manga": "Kemono Incidents Vol. 20",
-        "date_sortie": "05/12/2024",
-        "prix": "7.20 €",
-        "editeur": "Kurokawa",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791042014865&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/95/kemono_incidents_20993559.webp?1729279982"
-    },
-    {
-        "nom_manga": "La Mariée du Roi Dragon Vol. 3",
-        "date_sortie": "05/12/2024",
-        "prix": "12.95 €",
-        "editeur": "Michel Lafon",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782749959443&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/27/la_mariee_du_roi_dragon_3_edition_reliee_francaise1004572.webp?1730808607"
-    },
-    {
-        "nom_manga": "Les 100 petites amies qui t'aiiiment à en mourir Vol. 9",
-        "date_sortie": "05/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Mana Books",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791035505745&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/04/les_100_petites_amies_qui_t_aiiiment_a_en_mourir_9962340.webp?1729020989"
-    },
-    {
-        "nom_manga": "Les Carnets de l'Apothicaire - Enquêtes à la cour Vol. 9",
-        "date_sortie": "05/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Mana Books",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791035505844&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/60/les_carnets_de_l_apothicaire_-_enquetes_a_la_cour_9939606.webp?1729020878"
-    },
-    {
-        "nom_manga": "Les Héros de la Galaxie Vol. 25",
-        "date_sortie": "05/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Kurokawa",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791042014872&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/41/les_heros_de_la_galaxie_25980614.webp?1725552221"
-    },
-    {
-        "nom_manga": "Let's Play Vol. 4",
-        "date_sortie": "05/12/2024",
-        "prix": "14.95 €",
-        "editeur": "Kotoon",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782494102514&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/10/let_s_play_4_edition_reliee_francaise1002601.webp?1728720560"
-    },
-    {
-        "nom_manga": "Migi et Dali Vol. 5",
-        "date_sortie": "05/12/2024",
+        "nom_manga": "Crime Game Vol. 2",
+        "date_sortie": "09/01/2025",
         "prix": "8.50 €",
         "editeur": "komikku",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782372878234&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/16/migi_et_dali_5940461.webp?1732127505"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782372878357&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/27/crime_game_2998272.webp?1735651265"
     },
     {
-        "nom_manga": "Moi, quand je me réincarne en Slime - Trinité Vol. 6",
-        "date_sortie": "05/12/2024",
+        "nom_manga": "En scène ! Vol. 24",
+        "date_sortie": "09/01/2025",
         "prix": "7.95 €",
         "editeur": "Kurokawa",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791042013325&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/64/moi_quand_je_me_reincarne_en_slime_-_trinite_6962346.webp?1724352762"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791042019099&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/31/en_scene_24993113.webp?1732819215"
     },
     {
-        "nom_manga": "Noble - New World Adventures Vol. 12",
-        "date_sortie": "05/12/2024",
+        "nom_manga": "Fleurs & Dragons Vol. 2",
+        "date_sortie": "09/01/2025",
         "prix": "7.99 €",
         "editeur": "komikku",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782372878302&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/03/noble_-_new_world_adventures_121004330.webp?1732127291"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782372878340&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/40/fleurs_dragons_21001204.webp?1735651255"
     },
     {
-        "nom_manga": "One-Punch Man Vol. 30",
-        "date_sortie": "05/12/2024",
-        "prix": "7.20 €",
+        "nom_manga": "Goblin Slayer - Year One Vol. 12",
+        "date_sortie": "09/01/2025",
+        "prix": "7.95 €",
         "editeur": "Kurokawa",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791042014889&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/26/one-punch_man_30997862.webp?1729020726"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791042018849&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/20/goblin_slayer_-_year_one_12998302.webp?1735651235"
     },
     {
-        "nom_manga": "Pétales de Réincarnation Vol. 20",
-        "date_sortie": "05/12/2024",
+        "nom_manga": "Gran Familia Vol. 2",
+        "date_sortie": "09/01/2025",
         "prix": "7.99 €",
         "editeur": "komikku",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782372878227&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/69/petales_de_reincarnation_201004296.webp?1732127000"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782372878364&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/77/gran_familia_2984877.webp?1735651211"
     },
     {
-        "nom_manga": "Remède Impérial - L'étrange médecin de la cour Vol. 2",
-        "date_sortie": "05/12/2024",
+        "nom_manga": "Hirano et Kagiura Vol. 2",
+        "date_sortie": "09/01/2025",
+        "prix": "8.05 €",
+        "editeur": "Akata",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385312671&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/21/hirano_et_kagiura_2953812.webp?1735651202"
+    },
+    {
+        "nom_manga": "Les 7 Chevaliers du Royaume des Marronniers Vol. 1",
+        "date_sortie": "09/01/2025",
+        "prix": "8.05 €",
+        "editeur": "Akata",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385314873&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/33/les_7_chevaliers_du_royaume_des_marronniers_1930833.webp?1732368858"
+    },
+    {
+        "nom_manga": "My Home Hero Vol. 22",
+        "date_sortie": "09/01/2025",
         "prix": "7.95 €",
         "editeur": "Kurokawa",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791042016258&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/90/remede_imperial_-_l_etrange_medecin_de_la_cour_241509.webp?1731855824"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791042018900&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/20/my_home_hero_22990602.webp?1735651193"
     },
     {
-        "nom_manga": "Seule la mort attend la vilaine Vol. 6",
-        "date_sortie": "05/12/2024",
-        "prix": "14.95 €",
-        "editeur": "Kotoon",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782494102491&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/70/seule_la_mort_attend_la_vilaine_6_edition_reliee_francaise1002607.webp?1724779281"
-    },
-    {
-        "nom_manga": "She Is Beautiful Vol. 3",
-        "date_sortie": "05/12/2024",
+        "nom_manga": "NieR:Automata Opération Pearl Harbor Vol. 4",
+        "date_sortie": "09/01/2025",
         "prix": "7.95 €",
         "editeur": "Kurokawa",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791042015183&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/71/she_is_beautiful_3988017.webp?1731855868"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791042014391&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/81/nier_automata_operation_pearl_harbor_41003218.webp?1735651177"
     },
     {
-        "nom_manga": "Skeleton Double Vol. 4",
-        "date_sortie": "05/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Kurokawa",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791042014896&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/61/skeleton_double_4994616.webp?1727518953"
-    },
-    {
-        "nom_manga": "The Bugle Call Vol. 4",
-        "date_sortie": "05/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Ki-oon",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791032716724&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/28/the_bugle_call_4988882.webp?1732367534"
-    },
-    {
-        "nom_manga": "The Dungeon of Black Company Vol. 12",
-        "date_sortie": "05/12/2024",
-        "prix": "7.99 €",
+        "nom_manga": "Serial Killer Land Vol. 1",
+        "date_sortie": "09/01/2025",
+        "prix": "8.50 €",
         "editeur": "komikku",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782372878128&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/20/the_dungeon_of_black_company_121005102.webp?1732127594"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782372878371&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/80/serial_killer_land_11010408.webp?1735651116"
     },
     {
-        "nom_manga": "The Godslaying Demon King Vol. 2",
-        "date_sortie": "05/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Mana Books",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791035505790&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/28/the_godslaying_demon_king_21003582.webp?1729021081"
-    },
-    {
-        "nom_manga": "Ultraman Vol. 20",
-        "date_sortie": "05/12/2024",
-        "prix": "7.95 €",
+        "nom_manga": "Soul Eater Vol. 9",
+        "date_sortie": "09/01/2025",
+        "prix": "11.95 €",
         "editeur": "Kurokawa",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791042014803&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/82/ultraman_20996828.webp?1729279036"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782380716092&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/01/soul_eater_9_perfect_edition47110.webp?1732819313"
     },
     {
-        "nom_manga": "Unnamed Memory Vol. 4",
-        "date_sortie": "05/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Mana Books",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791035505820&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/77/unnamed_memory_4979477.webp?1729020928"
-    },
-    {
-        "nom_manga": "Valkyrie Apocalypse - La Légende de Lü Bu Vol. 4",
-        "date_sortie": "05/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Ki-oon",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791032716618&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/54/valkyrie_apocalypse_-_la_legende_de_lu_bu_4952545.webp?1724779333"
-    },
-    {
-        "nom_manga": "Vinland Saga Vol. 28",
-        "date_sortie": "05/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Kurokawa",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791042014810&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/70/vinland_saga_281002507.webp?1729191483"
-    },
-    {
-        "nom_manga": "Voleur de mon cœur Vol. 4",
-        "date_sortie": "05/12/2024",
-        "prix": "8.95 €",
+        "nom_manga": "The Ghost Writing Hero Vol. 3",
+        "date_sortie": "09/01/2025",
+        "prix": "9.95 €",
         "editeur": "K! World",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782492989681&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/20/voleur_de_mon_cyur_4_edition_reliee_francaise1002602.webp?1729280030"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782492989766&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/24/the_ghost_writing_hero_3_edition_reliee_francaise1012042.webp?0"
     },
     {
-        "nom_manga": "Wandering Witch Vol. 6",
-        "date_sortie": "05/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Kurokawa",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791042014902&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/02/wandering_witch_61003420.webp?1731855907"
+        "nom_manga": "Un comptable à la cour Vol. 3",
+        "date_sortie": "09/01/2025",
+        "prix": "8.05 €",
+        "editeur": "Akata",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382126578&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/13/un_comptable_a_la_cour_3984931.webp?1731656907"
     },
     {
-        "nom_manga": "+Anima Vol. 6",
-        "date_sortie": "06/12/2024",
-        "prix": "7.90 €",
-        "editeur": "Ototo",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782377176045&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/12/_anima_6_reedition_ototo1000521.webp?1732367576"
+        "nom_manga": "Holyland Vol. 11",
+        "date_sortie": "10/01/2025",
+        "prix": "8.35 €",
+        "editeur": "VEGA-Dupuis",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782379502866&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/75/holyland_1137757.webp?1735651005"
     },
     {
-        "nom_manga": "36 000 Seconds in a Day Vol. 4",
-        "date_sortie": "06/12/2024",
+        "nom_manga": "Love of Kill Vol. 4",
+        "date_sortie": "10/01/2025",
+        "prix": "8.35 €",
+        "editeur": "VEGA-Dupuis",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782379506031&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/01/love_of_kill_451110.webp?1735650974"
+    },
+    {
+        "nom_manga": "Manchuria Opium Squad Vol. 15",
+        "date_sortie": "10/01/2025",
+        "prix": "8.35 €",
+        "editeur": "VEGA-Dupuis",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782379505379&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/33/manchuria_opium_squad_15995133.webp?1735650952"
+    },
+    {
+        "nom_manga": "Minato Shoji Coin Laundry Vol. 1",
+        "date_sortie": "10/01/2025",
+        "prix": "8.35 €",
+        "editeur": "VEGA-Dupuis",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782379507472&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/54/minato_shoji_coin_laundry_1936945.webp?1735650935"
+    },
+    {
+        "nom_manga": "Piravit - Le Dernier fantôme Vol. 2",
+        "date_sortie": "10/01/2025",
         "prix": "7.35 €",
         "editeur": "VEGA-Dupuis",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782379503443&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/15/36_000_seconds_in_a_day_4947651.webp?1722340558"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782379506161&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/78/piravit_-_le_dernier_fantome_21003887.webp?1735650920"
     },
     {
-        "nom_manga": "Baki Vol. 9",
-        "date_sortie": "06/12/2024",
+        "nom_manga": "SHY Vol. 23",
+        "date_sortie": "10/01/2025",
+        "prix": "7.30 €",
+        "editeur": "Kana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505130994&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/62/shy_23997026.webp?1735650905"
+    },
+    {
+        "nom_manga": "Tokyo, ces jours-ci Vol. 2",
+        "date_sortie": "10/01/2025",
         "prix": "12.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382754986&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/02/baki_9_perfect_edition967020.webp?1730930461"
+        "editeur": "Kana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505133056&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/97/tokyo_ces_jours-ci_2975279.webp?1735650855"
     },
     {
-        "nom_manga": "Baki Vol. 10",
-        "date_sortie": "06/12/2024",
-        "prix": "12.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382754993&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/12/baki_10_perfect_edition967021.webp?1730930387"
+        "nom_manga": "Tôgen Anki - La Légende du sang maudit Vol. 19",
+        "date_sortie": "10/01/2025",
+        "prix": "7.30 €",
+        "editeur": "Kana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505124993&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/53/togen_anki_-_la_legende_du_sang_maudit_19997635.webp?1735650841"
     },
     {
-        "nom_manga": "Baki Vol. 11",
-        "date_sortie": "06/12/2024",
-        "prix": "12.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385030001&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/22/baki_11_perfect_edition967022.webp?1730930540"
+        "nom_manga": "Ace of Diamond Vol. 2",
+        "date_sortie": "15/01/2025",
+        "prix": "12.90 €",
+        "editeur": "Mangetsu",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382819999&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/94/ace_of_diamond_21006649.webp?1735650822"
     },
     {
-        "nom_manga": "Baki Vol. 12",
-        "date_sortie": "06/12/2024",
-        "prix": "12.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385030018&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/32/baki_12_perfect_edition967023.webp?1730930581"
+        "nom_manga": "Ao Ashi Vol. 26",
+        "date_sortie": "15/01/2025",
+        "prix": "7.20 €",
+        "editeur": "Mangetsu",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382818763&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/66/ao_ashi_26958466.webp?1735650812"
     },
     {
-        "nom_manga": "Be Blues! Vol. 1",
-        "date_sortie": "06/12/2024",
-        "prix": "6.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385036195&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/05/be_blues_137150.webp?1730463986"
-    },
-    {
-        "nom_manga": "Be Blues! Vol. 2",
-        "date_sortie": "06/12/2024",
-        "prix": "6.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385036201&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/15/be_blues_237151.webp?1730464026"
-    },
-    {
-        "nom_manga": "Be Blues! Vol. 3",
-        "date_sortie": "06/12/2024",
-        "prix": "6.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385036218&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/25/be_blues_337152.webp?1730464059"
-    },
-    {
-        "nom_manga": "Be Blues! Vol. 4",
-        "date_sortie": "06/12/2024",
-        "prix": "6.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385036225&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/35/be_blues_437153.webp?1730464089"
-    },
-    {
-        "nom_manga": "Be Blues! Vol. 5",
-        "date_sortie": "06/12/2024",
-        "prix": "6.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385036232&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/45/be_blues_537154.webp?1730464118"
-    },
-    {
-        "nom_manga": "Be Blues! Box 1 - Édition Collector (vide)",
-        "date_sortie": "06/12/2024",
-        "prix": "34.75 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385036683&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/55/be_blues_box_1_-_edition_collector_vide1009155.webp?1731092581"
-    },
-    {
-        "nom_manga": "Fill me with deceptive love Vol. 1",
-        "date_sortie": "06/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Hana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382764671&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/15/fill_me_with_deceptive_love_11007551.webp?1731238419"
-    },
-    {
-        "nom_manga": "L'amour sur le bout de la langue Vol. 1",
-        "date_sortie": "06/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Hana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382764954&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/61/l_amour_sur_le_bout_de_la_langue_11002216.webp?1731238504"
-    },
-    {
-        "nom_manga": "Le magicien de la forêt secrète Vol. 1",
-        "date_sortie": "06/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Hana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382764800&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/63/le_magicien_de_la_foret_secrete_11007736.webp?1731240505"
-    },
-    {
-        "nom_manga": "Les dessous de l'élève modèle Vol. 1",
-        "date_sortie": "06/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Hana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382764350&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/43/les_dessous_de_l_eleve_modele_11007734.webp?1731239001"
-    },
-    {
-        "nom_manga": "Le Secret de Scarecrow Vol. 2",
-        "date_sortie": "06/12/2024",
+        "nom_manga": "Bonne nuit Punpun Vol. 1 & 2 - Pack découverte",
+        "date_sortie": "15/01/2025",
         "prix": "7.90 €",
         "editeur": "Kana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505126430&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/31/le_secret_de_scarecrow_21002813.webp?1729020785"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=3701580713720&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/42/bonne_nuit_punpun_vol_1_2_-_pack_decouverte1009124.webp?0"
     },
     {
-        "nom_manga": "Magilumière Co. Ltd. Vol. 2",
-        "date_sortie": "06/12/2024",
+        "nom_manga": "Bucket List of the Dead Vol. 1 & 2 - Pack découverte",
+        "date_sortie": "15/01/2025",
         "prix": "7.90 €",
         "editeur": "Kana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505126195&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/72/magilumiere_co_ltd_2969727.webp?1729020570"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=3701580713751&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/74/bucket_list_of_the_dead_vol_1_2_-_pack_decouverte1009247.webp?0"
     },
     {
-        "nom_manga": "Mobile Suit Gundam - The Origin Vol. 2",
-        "date_sortie": "06/12/2024",
-        "prix": "29 €",
+        "nom_manga": "Chibi Maruko-chan Vol. 2",
+        "date_sortie": "15/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Mangetsu",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382814871&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/19/chibi_maruko-chan_240391.webp?1726860730"
+    },
+    {
+        "nom_manga": "Family Compo Vol. 1",
+        "date_sortie": "15/01/2025",
+        "prix": "16.99 €",
+        "editeur": "Panini",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039132671&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/51/family_compo_1_perfect_edition1005915.webp?1735650728"
+    },
+    {
+        "nom_manga": "HUNTER × HUNTER Vol. 1 & 2 - Pack découverte (2025)",
+        "date_sortie": "15/01/2025",
+        "prix": "7.30 €",
+        "editeur": "Kana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=3701580713713&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/32/hunter_hunter_vol_1_2_-_pack_decouverte_20251009123.webp?0"
+    },
+    {
+        "nom_manga": "Katagi Modoshi - The Soul Cleaner Vol. 1",
+        "date_sortie": "15/01/2025",
+        "prix": "7.99 €",
+        "editeur": "Crunchyroll",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820348708&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/17/katagi_modoshi_-_the_soul_cleaner_1979971.webp?1735650749"
+    },
+    {
+        "nom_manga": "L'Armure et la Couronne Vol. 2",
+        "date_sortie": "15/01/2025",
+        "prix": "14.95 €",
+        "editeur": "Kbooks",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382880173&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/12/l_armure_et_la_couronne_2_edition_reliee_francaise1005921.webp?1735650794"
+    },
+    {
+        "nom_manga": "Marriage Toxin Vol. 8",
+        "date_sortie": "15/01/2025",
+        "prix": "7.29 €",
+        "editeur": "Crunchyroll",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820349002&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/94/marriage_toxin_8997849.webp?1735650785"
+    },
+    {
+        "nom_manga": "Mission: Yozakura Family Vol. 1 & 2 - Pack découverte (2025)",
+        "date_sortie": "15/01/2025",
+        "prix": "7.30 €",
+        "editeur": "Kana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=3701580713744&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/52/mission_yozakura_family_vol_1_2_-_pack_decouverte_20251009125.webp?0"
+    },
+    {
+        "nom_manga": "Mon ami Kim Jong-Un Vol. 1",
+        "date_sortie": "15/01/2025",
+        "prix": "30 €",
+        "editeur": "Futuropolis",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782754843027&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/65/mon_ami_kim_jong-un_11010556.webp?0"
+    },
+    {
+        "nom_manga": "Petit Requin Vol. 3",
+        "date_sortie": "15/01/2025",
+        "prix": "12.90 €",
+        "editeur": "Rue de Sèvres",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782810208852&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/13/petit_requin_3998831.webp?1735650571"
+    },
+    {
+        "nom_manga": "Planetarium Ghost Travel Vol. 2",
+        "date_sortie": "15/01/2025",
+        "prix": "12.90 €",
+        "editeur": "Rue de Sèvres",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782810208647&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/21/planetarium_ghost_travel_2980212.webp?1735650564"
+    },
+    {
+        "nom_manga": "PTSD Radio Vol. 2",
+        "date_sortie": "15/01/2025",
+        "prix": "16.95 €",
+        "editeur": "Mangetsu",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382812112&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/06/ptsd_radio_3976160.webp?1735650643"
+    },
+    {
+        "nom_manga": "The Lost Signal and This Communication Vol. 4",
+        "date_sortie": "15/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Mangetsu",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382813829&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/56/the_lost_signal_and_this_communication_4978665.webp?1735650546"
+    },
+    {
+        "nom_manga": "The Promised Neverland Vol. 2",
+        "date_sortie": "15/01/2025",
+        "prix": "19.99 €",
+        "editeur": "Crunchyroll",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820352163&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/69/the_promised_neverland_2_edition_double1005796.webp?1735650531"
+    },
+    {
+        "nom_manga": "High School Mercenary Vol. 7",
+        "date_sortie": "16/01/2025",
+        "prix": "12.95 €",
+        "editeur": "Michel Lafon",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782749960203&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/49/high_school_mercenary_7_edition_reliee_francaise1011594.webp?1735650522"
+    },
+    {
+        "nom_manga": "How to Make Delicious Coffee Vol. 7",
+        "date_sortie": "16/01/2025",
+        "prix": "9.95 €",
+        "editeur": "Mana Books",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791035506629&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/12/how_to_make_delicious_coffee_7948721.webp?1735650513"
+    },
+    {
+        "nom_manga": "Killer Peter Vol. 3",
+        "date_sortie": "16/01/2025",
+        "prix": "12.95 €",
+        "editeur": "Michel Lafon",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782749960210&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/39/killer_peter_3_edition_reliee_francaise1011593.webp?1735650497"
+    },
+    {
+        "nom_manga": "La nouvelle cheffe de clan Vol. 3",
+        "date_sortie": "16/01/2025",
+        "prix": "14.95 €",
+        "editeur": "Kotoon",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782494102385&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/67/la_nouvelle_cheffe_de_clan_3_edition_reliee_francaise1007476.webp?1735650458"
+    },
+    {
+        "nom_manga": "Leçons de vie avec Grand Frère Uramichi Vol. 5",
+        "date_sortie": "16/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Mana Books",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791035506605&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/73/lecons_de_vie_avec_grand_frere_uramichi_5931837.webp?1735650488"
+    },
+    {
+        "nom_manga": "My Happy Marriage Vol. 5",
+        "date_sortie": "16/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Kurokawa",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791042014407&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/80/my_happy_marriage_51003108.webp?1735650630"
+    },
+    {
+        "nom_manga": "My Love Story with Yamada-kun at LVL 999 Vol. 4",
+        "date_sortie": "16/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Mana Books",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791035506612&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/14/my_love_story_with_yamada-kun_at_lvl_999_4956441.webp?1735650472"
+    },
+    {
+        "nom_manga": "Operation : True Love Vol. 3",
+        "date_sortie": "16/01/2025",
+        "prix": "12.95 €",
+        "editeur": "Michel Lafon",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782749960227&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/29/operation_true_love_3_edition_reliee_francaise1011592.webp?1735650449"
+    },
+    {
+        "nom_manga": "Apparently, Disillusioned Adventurers Will Save the World Vol. 5",
+        "date_sortie": "17/01/2025",
+        "prix": "6.95 €",
+        "editeur": "Meian",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385031497&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/98/apparently_disillusioned_adventurers_will_save_the_world_5964089.webp?1735650414"
+    },
+    {
+        "nom_manga": "Battle Through the Heavens Vol. 14",
+        "date_sortie": "17/01/2025",
+        "prix": "",
+        "editeur": "ManED",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782487369191&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/40/battle_through_the_heavens_14_edition_reliee1005804.webp?1735650405"
+    },
+    {
+        "nom_manga": "Blue Wolves Vol. 11",
+        "date_sortie": "17/01/2025",
+        "prix": "7.30 €",
+        "editeur": "Kana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505125747&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/70/blue_wolves_11993607.webp?1735650390"
+    },
+    {
+        "nom_manga": "Gamaran - Le Tournoi ultime Vol. 24",
+        "date_sortie": "17/01/2025",
+        "prix": "7.30 €",
+        "editeur": "Kana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505124443&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/22/gamaran_-_le_tournoi_ultime_24981222.webp?1735650368"
+    },
+    {
+        "nom_manga": "Happy Shitty Life Vol. 5",
+        "date_sortie": "17/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Hana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382765012&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/97/happy_shitty_life_5991079.webp?1735650336"
+    },
+    {
+        "nom_manga": "House Backer Vol. 1",
+        "date_sortie": "17/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Hana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382765128&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/80/house_backer_1937108.webp?1735650265"
+    },
+    {
+        "nom_manga": "JK Haru - Sex Worker in Another World Vol. 7",
+        "date_sortie": "17/01/2025",
+        "prix": "6.95 €",
+        "editeur": "Meian",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385033668&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/61/jk_haru_-_sex_worker_in_another_world_7994116.webp?1735650237"
+    },
+    {
+        "nom_manga": "Killer Shark in Another World Vol. 5",
+        "date_sortie": "17/01/2025",
+        "prix": "6.95 €",
+        "editeur": "Meian",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385038465&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/13/killer_shark_in_another_world_5986631.webp?1735650006"
+    },
+    {
+        "nom_manga": "L'Empire du sourire Vol. 1",
+        "date_sortie": "17/01/2025",
+        "prix": "16 €",
         "editeur": "VEGA-Dupuis",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782379506437&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/88/mobile_suit_gundam_-_the_origin_2_reedition_deluxe1008988.webp?0"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782379508226&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/49/l_empire_du_sourire_1_edition_reliee_francaise1006594.webp?1731657283"
     },
     {
-        "nom_manga": "N°6 Vol. 9",
-        "date_sortie": "06/12/2024",
+        "nom_manga": "L'Empire du sourire Vol. 2",
+        "date_sortie": "17/01/2025",
+        "prix": "16 €",
+        "editeur": "VEGA-Dupuis",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782379508233&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/99/l_empire_du_sourire_2_edition_reliee_francaise1006599.webp?1731657270"
+    },
+    {
+        "nom_manga": "La transformation de Natsume Vol. 1",
+        "date_sortie": "17/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Hana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382765074&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/92/la_transformation_de_natsume_11000029.webp?1735649389"
+    },
+    {
+        "nom_manga": "La ville à ta couleur Vol. 1",
+        "date_sortie": "17/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Hana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382765111&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/59/la_ville_a_ta_couleur_11009595.webp?1735649351"
+    },
+    {
+        "nom_manga": "Le Professeur qui lisait des histoires d'amour Vol. 2",
+        "date_sortie": "17/01/2025",
+        "prix": "16 €",
+        "editeur": "VEGA-Dupuis",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782379508257&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/69/le_professeur_qui_lisait_des_histoires_d_amour_2_edition_reliee_francaise1006596.webp?1735649616"
+    },
+    {
+        "nom_manga": "Liés et connectés ensemble au monde Vol. 1",
+        "date_sortie": "17/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Hana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382762707&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/28/lies_et_connectes_ensemble_au_monde_11009882.webp?1735649985"
+    },
+    {
+        "nom_manga": "Loner Life in Another World Vol. 13",
+        "date_sortie": "17/01/2025",
+        "prix": "6.95 €",
+        "editeur": "Meian",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385030520&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/17/loner_life_in_another_world_13973771.webp?1735649944"
+    },
+    {
+        "nom_manga": "Loner Life in Another World Vol. 14",
+        "date_sortie": "17/01/2025",
+        "prix": "6.95 €",
+        "editeur": "Meian",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385030537&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/49/loner_life_in_another_world_14978294.webp?1735649964"
+    },
+    {
+        "nom_manga": "Long Period Vol. 1",
+        "date_sortie": "17/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Hana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382765029&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/36/long_period_1988763.webp?1735649916"
+    },
+    {
+        "nom_manga": "Long Period Vol. 2",
+        "date_sortie": "17/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Hana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382765036&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/46/long_period_2988764.webp?1735649922"
+    },
+    {
+        "nom_manga": "Léviathan (Lee Gyeong Tak) Vol. 5",
+        "date_sortie": "17/01/2025",
+        "prix": "14.95 €",
+        "editeur": "Kmics",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782493994042&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/25/leviathan_lee_gyeong_tak_5_edition_reliee_francaise1004252.webp?1735671922"
+    },
+    {
+        "nom_manga": "Smoking Behind The Supermarket With You Vol. 2",
+        "date_sortie": "17/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Kana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505129080&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/21/smoking_behind_the_supermarket_with_you_2980612.webp?1735649596"
+    },
+    {
+        "nom_manga": "Soyons plus qu'amis d'enfance ! Vol. 3",
+        "date_sortie": "17/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Hana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382764985&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/85/soyons_plus_qu_amis_d_enfance_3978558.webp?1735649517"
+    },
+    {
+        "nom_manga": "Stand by me Kakuemon Vol. 3",
+        "date_sortie": "17/01/2025",
+        "prix": "9.95 €",
+        "editeur": "Meian",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782368777978&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/12/stand_by_me_kakuemon_3996221.jpg?1732386470"
+    },
+    {
+        "nom_manga": "Stardust Family Vol. 1",
+        "date_sortie": "17/01/2025",
         "prix": "8.35 €",
         "editeur": "VEGA-Dupuis",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782379503245&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/34/n_6_921543.webp?1723668822"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782379505591&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/99/stardust_family_1989599.webp?1732369012"
     },
     {
-        "nom_manga": "Pineapple Army Vol. 2",
-        "date_sortie": "06/12/2024",
-        "prix": "18.50 €",
-        "editeur": "Kana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505119463&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/41/pineapple_army_2_edition_double1002814.webp?1732304955"
-    },
-    {
-        "nom_manga": "Quatre frères pour moi ! Vol. 8",
-        "date_sortie": "06/12/2024",
-        "prix": "7.30 €",
-        "editeur": "Kana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505126355&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/12/quatre_freres_pour_moi_8976321.webp?1732304985"
-    },
-    {
-        "nom_manga": "Quelque part, dans le berceau du ciel Vol. 1",
-        "date_sortie": "06/12/2024",
+        "nom_manga": "The Bitch Cat - Remue la queue pour un câlin ! Vol. 1",
+        "date_sortie": "17/01/2025",
         "prix": "7.95 €",
         "editeur": "Hana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382764794&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/31/quelque_part_dans_le_berceau_du_ciel_11005213.webp?1731240039"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382761922&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/56/the_bitch_cat_-_remue_la_queue_pour_un_calin_1960865.webp?1735649413"
     },
     {
-        "nom_manga": "Shaman King - The Super Star Vol. 8",
-        "date_sortie": "06/12/2024",
+        "nom_manga": "Undead Unluck Vol. 20",
+        "date_sortie": "17/01/2025",
         "prix": "7.30 €",
         "editeur": "Kana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505128441&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/34/shaman_king_-_the_super_star_8995043.webp?1732725162"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505124948&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/27/undead_unluck_20996472.webp?1735649367"
     },
     {
-        "nom_manga": "Show-Ha Shoten! Vol. 6",
-        "date_sortie": "06/12/2024",
-        "prix": "7.30 €",
-        "editeur": "Kana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505126492&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/96/show-ha_shoten_6994069.webp?1732305047"
-    },
-    {
-        "nom_manga": "SHY Vol. 22",
-        "date_sortie": "06/12/2024",
-        "prix": "7.30 €",
-        "editeur": "Kana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505125112&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/63/shy_22994436.webp?1732305071"
-    },
-    {
-        "nom_manga": "The Breaker - New Waves Vol. 9",
-        "date_sortie": "06/12/2024",
-        "prix": "12.95 €",
+        "nom_manga": "Welcome to Japan! Elfe de mes rêves... Vol. 3",
+        "date_sortie": "17/01/2025",
+        "prix": "6.95 €",
         "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382751718&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/78/the_breaker_-_new_waves_9_edition_ultimate965387.webp?1731092240"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385031619&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/45/welcome_to_japan_elfe_de_mes_reves_3937254.webp?1735649316"
     },
     {
-        "nom_manga": "The Breaker - New Waves Vol. 10",
-        "date_sortie": "06/12/2024",
-        "prix": "12.95 €",
+        "nom_manga": "Welcome to Japan! Elfe de mes rêves... Vol. 4",
+        "date_sortie": "17/01/2025",
+        "prix": "6.95 €",
         "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382751725&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/88/the_breaker_-_new_waves_10_edition_ultimate965388.webp?1731092248"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385031626&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/53/welcome_to_japan_elfe_de_mes_reves_4947635.webp?1735649330"
     },
     {
-        "nom_manga": "The prefect's secret garden Vol. 1",
-        "date_sortie": "06/12/2024",
+        "nom_manga": "White Liar Vol. 1",
+        "date_sortie": "17/01/2025",
         "prix": "7.95 €",
         "editeur": "Hana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382764701&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/15/the_prefect_s_secret_garden_1946251.webp?1731239380"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382762493&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/85/white_liar_11001058.webp?1735649290"
     },
     {
-        "nom_manga": "The prefect's secret garden Vol. 2",
-        "date_sortie": "06/12/2024",
+        "nom_manga": "Back from Isekai Vol. 2",
+        "date_sortie": "22/01/2025",
+        "prix": "8.50 €",
+        "editeur": "Delcourt/Tonkam",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413076728&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/79/back_from_isekai_250697.webp?1735649254"
+    },
+    {
+        "nom_manga": "Battle Royale - Enforcers Vol. 2",
+        "date_sortie": "22/01/2025",
+        "prix": "8.50 €",
+        "editeur": "Soleil",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782302102583&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/76/battle_royale_-_enforcers_2985467.webp?1735649239"
+    },
+    {
+        "nom_manga": "Bloom Vol. 1",
+        "date_sortie": "22/01/2025",
+        "prix": "7.20 €",
+        "editeur": "nobi nobi!",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782373499759&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/58/bloom_1963785.webp?1735649224"
+    },
+    {
+        "nom_manga": "Chainsaw Man Vol. 18",
+        "date_sortie": "22/01/2025",
+        "prix": "7.29 €",
+        "editeur": "Crunchyroll",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820348814&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/38/chainsaw_man_181003883.webp?1735649202"
+    },
+    {
+        "nom_manga": "Chainsaw Man Vol. 18 - Édition Collector",
+        "date_sortie": "22/01/2025",
+        "prix": "7.29 €",
+        "editeur": "Crunchyroll",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820352545&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/91/chainsaw_man_vol_18_-_edition_collector1009119.webp?1734076090"
+    },
+    {
+        "nom_manga": "City Hunter Vol. 16",
+        "date_sortie": "22/01/2025",
+        "prix": "16.99 €",
+        "editeur": "Panini",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039132664&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/70/city_hunter_16_perfect_edition1005807.webp?1735649182"
+    },
+    {
+        "nom_manga": "Dalgwa Ineo Vol. 1",
+        "date_sortie": "22/01/2025",
+        "prix": "14.95 €",
+        "editeur": "Milan",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782408057466&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/34/dalgwa_ineo_11012043.webp?1735651765"
+    },
+    {
+        "nom_manga": "Demon Slayer Vol. 1 & 2 - Pack Découverte (2025)",
+        "date_sortie": "22/01/2025",
+        "prix": "7.29 €",
+        "editeur": "Panini",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039133609&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/33/demon_slayer_vol_1_2_-_pack_decouverte_20251009133.webp?0"
+    },
+    {
+        "nom_manga": "Die Wergelder Vol. 5",
+        "date_sortie": "22/01/2025",
         "prix": "7.95 €",
-        "editeur": "Hana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382764732&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/25/the_prefect_s_secret_garden_2946252.webp?1731239335"
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811698201&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/59/die_wergelder_5944795.webp?1735649175"
     },
     {
-        "nom_manga": "The prefect's secret garden Vol. 3",
-        "date_sortie": "06/12/2024",
+        "nom_manga": "Dorohedoro Vol. 1",
+        "date_sortie": "22/01/2025",
+        "prix": "19.99 €",
+        "editeur": "Soleil",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782302104945&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/24/dorohedoro_1_chaos_edition1005542.webp?1735649158"
+    },
+    {
+        "nom_manga": "Fashion Vol. 3",
+        "date_sortie": "22/01/2025",
+        "prix": "13 €",
+        "editeur": "Le Lézard Noir",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782353483259&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/44/fashion_3981344.webp?1730383299"
+    },
+    {
+        "nom_manga": "Fragments d'histoires troublantes Vol. 1",
+        "date_sortie": "22/01/2025",
+        "prix": "14.95 €",
+        "editeur": "Kbooks",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382881637&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/59/fragments_d_histoires_troublantes_1_edition_reliee_francaise1001695.webp?1735654994"
+    },
+    {
+        "nom_manga": "Gloutons & Dragons Vol. 14",
+        "date_sortie": "22/01/2025",
+        "prix": "8.45 €",
+        "editeur": "Casterman",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782203288225&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/68/gloutons_dragons_14995286.webp?1735649142"
+    },
+    {
+        "nom_manga": "Hadès ou l'enfer des noces Vol. 2",
+        "date_sortie": "22/01/2025",
         "prix": "7.95 €",
-        "editeur": "Hana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382764749&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/60/the_prefect_s_secret_garden_3964606.webp?1731239278"
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811672690&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/21/hades_ou_l_enfer_des_noces_2957512.webp?1735649086"
     },
     {
-        "nom_manga": "The prefect's secret garden Coffret Intégral",
-        "date_sortie": "06/12/2024",
-        "prix": "23.85 €",
-        "editeur": "Hana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382764763&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/99/the_prefect_s_secret_garden_coffret_-_vol_1_a_31009299.webp?1731415705"
+        "nom_manga": "Haikyū!! - Les AS du volley Vol. 6",
+        "date_sortie": "22/01/2025",
+        "prix": "12.49 €",
+        "editeur": "Crunchyroll",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820351753&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/45/haikyy_-_les_as_du_volley_6_smash_edition995254.webp?1735649069"
     },
     {
-        "nom_manga": "The World is Dancing Vol. 6",
-        "date_sortie": "06/12/2024",
-        "prix": "11 €",
-        "editeur": "VEGA-Dupuis",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782379504570&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/70/the_world_is_dancing_6978307.webp?1732369257"
+        "nom_manga": "Hero Skill - Achats en ligne Vol. 10",
+        "date_sortie": "22/01/2025",
+        "prix": "8.50 €",
+        "editeur": "Delcourt/Tonkam",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413082903&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/67/hero_skill_-_achats_en_ligne_10996776.webp?1735649060"
     },
     {
-        "nom_manga": "Tokyo Aliens Vol. 8",
-        "date_sortie": "06/12/2024",
+        "nom_manga": "Hikari - Rêve de star Vol. 2",
+        "date_sortie": "22/01/2025",
+        "prix": "7.20 €",
+        "editeur": "nobi nobi!",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782373499995&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/43/hikari_-_reve_de_star_249134.webp?1735649040"
+    },
+    {
+        "nom_manga": "Hokuto no Ken - La Légende de Garuda Vol. 1",
+        "date_sortie": "22/01/2025",
+        "prix": "8.29 €",
+        "editeur": "Crunchyroll",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820349088&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/73/hokuto_no_ken_-_la_legende_de_garuda_11005937.webp?0"
+    },
+    {
+        "nom_manga": "How I Married an Amagami Sister Vol. 11",
+        "date_sortie": "22/01/2025",
+        "prix": "7.20 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811696306&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/82/how_i_married_an_amagami_sister_11988228.webp?1735650092"
+    },
+    {
+        "nom_manga": "JoJo's Bizarre Adventure - Saison 9 - The JOJOLands Vol. 4",
+        "date_sortie": "22/01/2025",
+        "prix": "7.29 €",
+        "editeur": "Delcourt/Tonkam",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413088103&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/98/jojo_s_bizarre_adventure_-_saison_9_-_the_jojolands_41004589.webp?1735649025"
+    },
+    {
+        "nom_manga": "L'Atelier des Sorciers Vol. 1",
+        "date_sortie": "22/01/2025",
+        "prix": "19.95 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811698874&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/99/l_atelier_des_sorciers_1_reedition_20251011399.webp?1735649271"
+    },
+    {
+        "nom_manga": "L'Habitant de l'infini - Bakumatsu Vol. 7",
+        "date_sortie": "22/01/2025",
+        "prix": "9.45 €",
+        "editeur": "Casterman",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782203265455&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/88/l_habitant_de_l_infini_-_bakumatsu_7976988.webp?1735649134"
+    },
+    {
+        "nom_manga": "L'Habitant de l'infini Vol. 7",
+        "date_sortie": "22/01/2025",
+        "prix": "13.95 €",
+        "editeur": "Casterman",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782203272958&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/29/l_habitant_de_l_infini_7_edition_immortelle985492.webp?1735649112"
+    },
+    {
+        "nom_manga": "Lecteur Omniscient Vol. 5",
+        "date_sortie": "22/01/2025",
+        "prix": "14.95 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811693084&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/87/lecteur_omniscient_5_edition_reliee_francaise1007078.webp?1735648900"
+    },
+    {
+        "nom_manga": "Le mystère de la chair - Junji Ito collection N°1 Vol. 1",
+        "date_sortie": "22/01/2025",
+        "prix": "24.95 €",
+        "editeur": "Mangetsu",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382817735&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/19/le_mystere_de_la_chair_-_junji_ito_collection_n_1_1_edition_mangetsu1011591.webp?0"
+    },
+    {
+        "nom_manga": "Les Noces des Lucioles Vol. 2",
+        "date_sortie": "22/01/2025",
         "prix": "7.90 €",
-        "editeur": "Kana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505126102&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/53/tokyo_aliens_8996335.webp?1729191621"
+        "editeur": "Glénat",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782344065433&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/03/les_noces_des_lucioles_2991330.webp?1735648923"
     },
     {
-        "nom_manga": "Treat me gently, please Vol. 11",
-        "date_sortie": "06/12/2024",
+        "nom_manga": "Limbo Vol. 2",
+        "date_sortie": "22/01/2025",
+        "prix": "9.50 €",
+        "editeur": "Glénat",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782344065976&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/57/limbo_21007875.webp?1735648994"
+    },
+    {
+        "nom_manga": "Mimosa, Momo et Moi Vol. 1",
+        "date_sortie": "22/01/2025",
+        "prix": "12.90 €",
+        "editeur": "Rue de Sèvres",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782810207800&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/15/mimosa_momo_et_moi_11005951.webp?1735650656"
+    },
+    {
+        "nom_manga": "Monster Maid - L'Excellent travail d'une domestique monstrueuse Vol. 2",
+        "date_sortie": "22/01/2025",
+        "prix": "8.50 €",
+        "editeur": "Soleil",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782302103689&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/32/monster_maid_-_l_excellent_travail_d_une_domestique_monstrueuse_2947123.webp?1735649011"
+    },
+    {
+        "nom_manga": "Nodame Cantabile Vol. 6",
+        "date_sortie": "22/01/2025",
+        "prix": "16 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811684419&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/74/nodame_cantabile_6_edition_masterpiece962047.webp?1735648909"
+    },
+    {
+        "nom_manga": "Promise Cinderella Vol. 2",
+        "date_sortie": "22/01/2025",
+        "prix": "7.90 €",
+        "editeur": "Glénat",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782344065440&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/45/promise_cinderella_249854.webp?1735648878"
+    },
+    {
+        "nom_manga": "RedFlower Vol. 2",
+        "date_sortie": "22/01/2025",
+        "prix": "7.90 €",
+        "editeur": "Glénat",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782344053492&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/45/redflower_2995654.webp?1735648864"
+    },
+    {
+        "nom_manga": "Reflection Vol. 4",
+        "date_sortie": "22/01/2025",
+        "prix": "7.20 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811698164&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/82/reflection_4953828.webp?1735648855"
+    },
+    {
+        "nom_manga": "Sangs et papillons Vol. 1",
+        "date_sortie": "22/01/2025",
+        "prix": "14.95 €",
+        "editeur": "N/C",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782386560064&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/94/sangs_et_papillons_1_edition_reliee_francaise1007749.webp?1735212716"
+    },
+    {
+        "nom_manga": "Sing \"Yesterday\" For Me Vol. 1",
+        "date_sortie": "22/01/2025",
+        "prix": "8.50 €",
+        "editeur": "Delcourt/Tonkam",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413086215&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/13/sing_yesterday_for_me_1_reedition1004731.webp?1735647640"
+    },
+    {
+        "nom_manga": "Sing \"Yesterday\" For Me Vol. 2",
+        "date_sortie": "22/01/2025",
+        "prix": "8.50 €",
+        "editeur": "Delcourt/Tonkam",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413086222&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/57/sing_yesterday_for_me_2_reedition1007075.webp?1735647953"
+    },
+    {
+        "nom_manga": "Sudachi - The Demon King Incident Vol. 4",
+        "date_sortie": "22/01/2025",
+        "prix": "7.20 €",
+        "editeur": "nobi nobi!",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782384963829&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/20/sudachi_-_the_demon_king_incident_4982502.webp?1735647620"
+    },
+    {
+        "nom_manga": "Suzume Vol. 3",
+        "date_sortie": "22/01/2025",
+        "prix": "7.70 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811693572&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/07/suzume_3997570.webp?1727897508"
+    },
+    {
+        "nom_manga": "The Gamer Vol. 3",
+        "date_sortie": "22/01/2025",
+        "prix": "14.95 €",
+        "editeur": "Kbooks",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382882870&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/03/the_gamer_3_edition_reliee_francaise1002930.webp?1735647604"
+    },
+    {
+        "nom_manga": "The World's Fastest Level Up! Vol. 5",
+        "date_sortie": "22/01/2025",
+        "prix": "8.50 €",
+        "editeur": "Soleil",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782302105010&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/82/the_world_s_fastest_level_up_5997528.webp?1735647571"
+    },
+    {
+        "nom_manga": "This must be love Vol. 1",
+        "date_sortie": "22/01/2025",
+        "prix": "14.95 €",
+        "editeur": "Milan",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782408055882&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/98/this_must_be_love_1_edition_reliee_francaise1008189.webp?1735647557"
+    },
+    {
+        "nom_manga": "Tomozaki-kun est un loser ! Vol. 3",
+        "date_sortie": "22/01/2025",
+        "prix": "8.50 €",
+        "editeur": "Delcourt/Tonkam",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413082842&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/22/tomozaki-kun_est_un_loser_3938622.webp?1735647528"
+    },
+    {
+        "nom_manga": "Under Ninja Vol. 12",
+        "date_sortie": "22/01/2025",
+        "prix": "7.70 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811697495&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/16/under_ninja_12996361.webp?1735647382"
+    },
+    {
+        "nom_manga": "Viral Hit Vol. 2",
+        "date_sortie": "22/01/2025",
+        "prix": "14.95 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811685911&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/47/viral_hit_2_edition_reliee_francaise1007074.webp?1735647349"
+    },
+    {
+        "nom_manga": "Witches' War Vol. 6",
+        "date_sortie": "22/01/2025",
+        "prix": "7.70 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811691912&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/24/witches_war_6981542.webp?1735647340"
+    },
+    {
+        "nom_manga": "Your Evil Past Vol. 10",
+        "date_sortie": "22/01/2025",
+        "prix": "7.70 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811697037&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/74/your_evil_past_10974147.webp?1735647325"
+    },
+    {
+        "nom_manga": "Yozakura Quartet Vol. 24",
+        "date_sortie": "22/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Pika",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782811697792&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/09/yozakura_quartet_2435490.webp?1735647304"
+    },
+    {
+        "nom_manga": "Au fond de l'abîme Vol. 1",
+        "date_sortie": "23/01/2025",
+        "prix": "7.90 €",
+        "editeur": "Omaké Books",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782379893223&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/01/au_fond_de_l_abime_11002810.webp?1727517816"
+    },
+    {
+        "nom_manga": "Du Mouvement de la Terre Vol. 8",
+        "date_sortie": "23/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Ki-oon",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791032716045&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/04/du_mouvement_de_la_terre_8968540.webp?1735647173"
+    },
+    {
+        "nom_manga": "Green Mechanic Vol. 8",
+        "date_sortie": "23/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Ki-oon",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791032720301&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/09/green_mechanic_81008190.webp?1735647039"
+    },
+    {
+        "nom_manga": "Les Chats d'Ulthar Vol. 1",
+        "date_sortie": "23/01/2025",
+        "prix": "18 €",
+        "editeur": "Ki-oon",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791032719343&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/09/les_chats_d_ulthar_11007790.webp?1735647281"
+    },
+    {
+        "nom_manga": "Là où les étoiles filantes tombent Vol. 1",
+        "date_sortie": "23/01/2025",
+        "prix": "17.95 €",
+        "editeur": "Kotoon",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782494102231&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/41/la_ou_les_etoiles_filantes_tombent_1_edition_reliee_francaise1000514.webp?1735647005"
+    },
+    {
+        "nom_manga": "Nina du Royaume aux étoiles Vol. 13",
+        "date_sortie": "23/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Michel Lafon",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782749960197&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/39/nina_du_royaume_aux_etoiles_13999593.webp?1734764153"
+    },
+    {
+        "nom_manga": "SANDA Vol. 1",
+        "date_sortie": "23/01/2025",
+        "prix": "6.95 €",
+        "editeur": "Ki-oon",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791032720318&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/45/sanda_1959154.webp?1735647152"
+    },
+    {
+        "nom_manga": "Tokyo Survivors Vol. 3",
+        "date_sortie": "23/01/2025",
+        "prix": "7.90 €",
+        "editeur": "Omaké Books",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782379893094&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/01/tokyo_survivors_3982310.webp?1735646968"
+    },
+    {
+        "nom_manga": "Une infinité de jours et de nuits Vol. 1",
+        "date_sortie": "23/01/2025",
+        "prix": "19.99 €",
+        "editeur": "Akata",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385312473&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/62/hyakuoku_no_hiru_to_senoku_no_yoru_1996926.webp?1735646866"
+    },
+    {
+        "nom_manga": "+Anima Vol. 7",
+        "date_sortie": "24/01/2025",
+        "prix": "7.90 €",
+        "editeur": "Ototo",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782377176380&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/27/_anima_7_reedition_ototo1004672.webp?1728581049"
+    },
+    {
+        "nom_manga": "Alvis le Squelette Vol. 1",
+        "date_sortie": "24/01/2025",
+        "prix": "7.95 €",
+        "editeur": null,
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782487892019&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/51/mukashi_yuusha_de_ima_wa_hone_vol_1948315.webp?1732368902"
+    },
+    {
+        "nom_manga": "Alvis le Squelette Vol. 2",
+        "date_sortie": "24/01/2025",
+        "prix": "7.95 €",
+        "editeur": null,
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782487892026&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/61/mukashi_yuusha_de_ima_wa_hone_vol_2948316.webp?1732368896"
+    },
+    {
+        "nom_manga": "Alvis le Squelette Vol. 3",
+        "date_sortie": "24/01/2025",
+        "prix": "7.95 €",
+        "editeur": null,
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782487892033&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/71/mukashi_yuusha_de_ima_wa_hone_vol_3948317.webp?1732368890"
+    },
+    {
+        "nom_manga": "Boy's Abyss Vol. 13",
+        "date_sortie": "24/01/2025",
+        "prix": "12.95 €",
+        "editeur": "Kana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505132837&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/14/boy_s_abyss_13987541.webp?1735646791"
+    },
+    {
+        "nom_manga": "Caste Heaven Vol. 6",
+        "date_sortie": "24/01/2025",
         "prix": "9.35 €",
         "editeur": "Taifu Comics",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782375064993&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/03/treat_me_gently_please_11962430.webp?1725090178"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782375063262&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/93/caste_heaven_650739.webp?1732367606"
     },
     {
-        "nom_manga": "Tu es trop mignon, alors c'est ta faute Vol. 1",
-        "date_sortie": "06/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Hana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382767535&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/60/tu_es_trop_mignon_alors_c_est_ta_faute_11008406.webp?1731239770"
+        "nom_manga": "Classroom of the Elite Vol. 6",
+        "date_sortie": "24/01/2025",
+        "prix": "8.50 €",
+        "editeur": "Ototo",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782377176403&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/58/classroom_of_the_elite_6937085.webp?1735646348"
     },
     {
-        "nom_manga": "Yuri Is My Job! Vol. 7",
-        "date_sortie": "06/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385033934&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/39/yuri_is_my_job_7938493.webp?1731097715"
-    },
-    {
-        "nom_manga": "Yuri Is My Job! Vol. 8",
-        "date_sortie": "06/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385033934&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/58/yuri_is_my_job_8950285.webp?1731097750"
-    },
-    {
-        "nom_manga": "Dreamin' Sun Vol. 10",
-        "date_sortie": "12/12/2024",
-        "prix": "8.05 €",
-        "editeur": "Akata",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382124543&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/58/dreamin_sun_10_nouvelle_edition973185.webp?1732386628"
-    },
-    {
-        "nom_manga": "Immortalité & Châtiment Vol. 2",
-        "date_sortie": "12/12/2024",
-        "prix": "8.05 €",
-        "editeur": "Akata",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385690076&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/31/immortalite_chatiment_2973613.webp?1729191335"
-    },
-    {
-        "nom_manga": "L'amour est au menu Vol. 3",
-        "date_sortie": "12/12/2024",
-        "prix": "8.05 €",
-        "editeur": "Akata",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385313036&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/84/l_amour_est_au_menu_3975748.webp?1731960365"
-    },
-    {
-        "nom_manga": "Mes cent contes mortels Vol. 6",
-        "date_sortie": "12/12/2024",
-        "prix": "8.05 €",
-        "editeur": "Akata",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385314422&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/76/mes_cent_contes_mortels_6989067.webp?1732386680"
-    },
-    {
-        "nom_manga": "Darwin's Incident Vol. 7",
-        "date_sortie": "13/12/2024",
-        "prix": "7.90 €",
-        "editeur": "Kana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505126157&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/63/darwin_s_incident_71001436.webp?1732305130"
-    },
-    {
-        "nom_manga": "Gifted Vol. 4",
-        "date_sortie": "13/12/2024",
+        "nom_manga": "Gate - Au-delà de la porte Vol. 20",
+        "date_sortie": "24/01/2025",
         "prix": "8.35 €",
-        "editeur": "VEGA-Dupuis",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782379505423&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/80/gifted_4982408.webp?1723669176"
+        "editeur": "Ototo",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782377176120&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/22/gate_-_au-dela_de_la_porte_20960122.webp?1731773853"
     },
     {
-        "nom_manga": "Kingdom Vol. 72",
-        "date_sortie": "13/12/2024",
-        "prix": "6.95 €",
+        "nom_manga": "Goodbye Dragon Life Vol. 9",
+        "date_sortie": "24/01/2025",
+        "prix": "8.35 €",
+        "editeur": "Ototo",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782377176106&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/03/goodbye_dragon_life_9979230.webp?1732302763"
+    },
+    {
+        "nom_manga": "Here U Are Vol. 3",
+        "date_sortie": "24/01/2025",
+        "prix": "12.90 €",
+        "editeur": "Taifu Comics",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782375064504&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/91/here_u_are_3_edition_reliee_francaise1000519.webp?1732367763"
+    },
+    {
+        "nom_manga": "I Got Caught Up In a Hero Summons Vol. 1",
+        "date_sortie": "24/01/2025",
+        "prix": "7.95 €",
         "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385035303&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/60/kingdom_721001106.webp?1731098232"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385035754&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/76/i_got_caught_up_in_a_hero_summons_143767.webp?1735645041"
     },
     {
-        "nom_manga": "Kingdom Vol. 73",
-        "date_sortie": "13/12/2024",
-        "prix": "6.95 €",
+        "nom_manga": "I Got Caught Up In a Hero Summons Vol. 2",
+        "date_sortie": "24/01/2025",
+        "prix": "7.95 €",
         "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385035310&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/89/kingdom_731004998.webp?1731098256"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385035761&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/96/i_got_caught_up_in_a_hero_summons_243769.webp?1735646243"
     },
     {
-        "nom_manga": "L'enfant en moi Vol. 5",
-        "date_sortie": "13/12/2024",
-        "prix": "7.30 €",
-        "editeur": "Kana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505129370&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/05/l_enfant_en_moi_5979650.webp?1732305145"
+        "nom_manga": "It's My Life Vol. 11",
+        "date_sortie": "24/01/2025",
+        "prix": "8.35 €",
+        "editeur": "Ototo",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782377174263&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/12/it_s_my_life_1130921.webp?1728580806"
+    },
+    {
+        "nom_manga": "Kaijû Girl Carameliser Vol. 7",
+        "date_sortie": "24/01/2025",
+        "prix": "8.35 €",
+        "editeur": "Ototo",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782377175833&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/03/kaiju_girl_carameliser_7982630.webp?1732370151"
+    },
+    {
+        "nom_manga": "Killing Stalking Vol. 9",
+        "date_sortie": "24/01/2025",
+        "prix": "11.90 €",
+        "editeur": "Taifu Comics",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782375064184&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/53/killing_stalking_9_edition_reliee_francaise995935.webp?1731511610"
+    },
+    {
+        "nom_manga": "La Belle et l'Ogre Vol. 1",
+        "date_sortie": "24/01/2025",
+        "prix": "7.90 €",
+        "editeur": null,
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782375065037&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/64/la_belle_et_l_ogre_11012046.webp?1735653423"
+    },
+    {
+        "nom_manga": "Le journal de Hanako Vol. 1",
+        "date_sortie": "24/01/2025",
+        "prix": "14 €",
+        "editeur": "IMHO",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782364811416&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/85/le_journal_de_hanako_1998358.webp?1735644991"
+    },
+    {
+        "nom_manga": "Le jour où j'ai décidé d'envahir la Terre Vol. 13",
+        "date_sortie": "24/01/2025",
+        "prix": "7.35 €",
+        "editeur": "Ototo",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782377174591&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/70/le_jour_ou_j_ai_decide_d_envahir_la_terre_1349307.webp?1732370184"
+    },
+    {
+        "nom_manga": "Love Me For Who I Am Vol. 5",
+        "date_sortie": "24/01/2025",
+        "prix": "8.35 €",
+        "editeur": "Ototo",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782377176007&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/62/love_me_for_who_i_am_5951326.webp?1731662105"
+    },
+    {
+        "nom_manga": "MADK Vol. 3",
+        "date_sortie": "24/01/2025",
+        "prix": "9.35 €",
+        "editeur": "Taifu Comics",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782375064511&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/23/madk_3977932.webp?1735644868"
+    },
+    {
+        "nom_manga": "Mai Ball! - Feminine Football Team Vol. 15",
+        "date_sortie": "24/01/2025",
+        "prix": "7.35 €",
+        "editeur": "Ototo",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782377174829&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/66/mai_ball_-_feminine_football_team_1532366.webp?1732367878"
     },
     {
         "nom_manga": "My Beloved Strange Man Vol. 1",
-        "date_sortie": "13/12/2024",
+        "date_sortie": "24/01/2025",
         "prix": "9.35 €",
         "editeur": null,
         "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782375065006&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/15/my_beloved_strange_man_11009351.webp?1732367911"
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/15/my_beloved_strange_man_11009351.webp?1734370004"
     },
     {
-        "nom_manga": "Naruto Vol. 30",
-        "date_sortie": "13/12/2024",
-        "prix": "15.50 €",
-        "editeur": "Kana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505116967&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/02/naruto_30_edition_hokage1002820.webp?1732305193"
-    },
-    {
-        "nom_manga": "No Game no Life - Saison 2 - Eastern Association Vol. 1",
-        "date_sortie": "13/12/2024",
+        "nom_manga": "No Game no Life - Saison 2 - Eastern Association Vol. 2",
+        "date_sortie": "24/01/2025",
         "prix": "7.90 €",
         "editeur": "Ototo",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782377176229&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/08/no_game_no_life_-_dainishou_-_tobu_rengou-hen_1980780.webp?1732266595"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782377176410&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/46/no_game_no_life_-_saison_2_-_eastern_association_2981564.webp?1735644843"
     },
     {
-        "nom_manga": "No Game No Life Pack découverte",
-        "date_sortie": "13/12/2024",
+        "nom_manga": "No Longer Allowed in Another World Vol. 6",
+        "date_sortie": "24/01/2025",
+        "prix": "7.90 €",
+        "editeur": "Kana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505124276&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/19/no_longer_allowed_in_another_world_6960491.webp?1735644771"
+    },
+    {
+        "nom_manga": "Oni Goroshi Vol. 5",
+        "date_sortie": "24/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Meian",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385032531&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/75/oni_goroshi_5959957.webp?1735644742"
+    },
+    {
+        "nom_manga": "Overlord Vol. 19",
+        "date_sortie": "24/01/2025",
         "prix": "8.35 €",
         "editeur": "Ototo",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782377176373&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/56/no_game_no_life_pack_decouverte1010265.webp?0"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782377176175&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/98/overlord_19995389.webp?1725657942"
     },
     {
-        "nom_manga": "OUT (Mizuta Makoto) Vol. 5",
-        "date_sortie": "13/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385034306&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/85/out_mizuta_makoto_5934658.webp?1731092264"
+        "nom_manga": "Senpai, This Can't Be Love ! Vol. 1",
+        "date_sortie": "24/01/2025",
+        "prix": "9.35 €",
+        "editeur": null,
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782375064887&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/35/senpai_danjite_koidewa_vol_1931253.webp?1728580639"
     },
     {
-        "nom_manga": "OUT (Mizuta Makoto) Vol. 6",
-        "date_sortie": "13/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385034313&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/95/out_mizuta_makoto_6934659.webp?1731092269"
+        "nom_manga": "Swinging Hearts Vol. 1",
+        "date_sortie": "24/01/2025",
+        "prix": "9.35 €",
+        "editeur": null,
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782375064863&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/03/swinging_hearts_11005930.webp?1731250190"
     },
     {
-        "nom_manga": "OUT (Mizuta Makoto) Vol. 7",
-        "date_sortie": "13/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385034320&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/06/out_mizuta_makoto_7934660.webp?1731092277"
-    },
-    {
-        "nom_manga": "OUT (Mizuta Makoto) Vol. 8",
-        "date_sortie": "13/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385034337&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/16/out_mizuta_makoto_8934661.webp?1731092283"
-    },
-    {
-        "nom_manga": "Reincarnated Into a Game as the Hero's Friend Vol. 3",
-        "date_sortie": "13/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385033316&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/54/reincarnated_into_a_game_as_the_hero_s_friend_31000845.webp?1731092295"
-    },
-    {
-        "nom_manga": "SILENCE (Yoann Vornière) Vol. 4",
-        "date_sortie": "13/12/2024",
-        "prix": "7.90 €",
-        "editeur": "Kana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505126003&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/51/silence_yoann_vorniere_41002815.webp?1732305204"
-    },
-    {
-        "nom_manga": "The Dangers in My Heart Vol. 9",
-        "date_sortie": "13/12/2024",
+        "nom_manga": "The Ichinose Family's Deadly Sins Vol. 5",
+        "date_sortie": "24/01/2025",
         "prix": "7.30 €",
         "editeur": "Kana",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505125365&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/59/the_dangers_in_my_heart_9991295.webp?1730664722"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505126546&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/83/the_ichinose_family_s_deadly_sins_5993838.webp?1735644621"
     },
     {
-        "nom_manga": "The Saint Whose Engagement Was Broken Vol. 4",
-        "date_sortie": "13/12/2024",
+        "nom_manga": "The Night Beyond the Tricornered Window Vol. 10",
+        "date_sortie": "24/01/2025",
+        "prix": "9.35 €",
+        "editeur": "Taifu Comics",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782375064139&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/09/sankaku_mado_no_sotogawa_wa_yoru_vol_10947390.webp?1726686821"
+    },
+    {
+        "nom_manga": "The One Within the Villainess Vol. 1",
+        "date_sortie": "24/01/2025",
         "prix": "6.95 €",
         "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385033187&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/56/the_saint_whose_engagement_was_broken_4993665.webp?1731092340"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385032760&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/24/the_one_within_the_villainess_1987042.webp?1735644562"
     },
     {
-        "nom_manga": "Tsukimichi - Moonlit Fantasy Vol. 3",
-        "date_sortie": "13/12/2024",
+        "nom_manga": "The One Within the Villainess Vol. 2",
+        "date_sortie": "24/01/2025",
         "prix": "6.95 €",
         "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385031695&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/13/tsukimichi_-_moonlit_fantasy_341231.webp?1731092421"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385032777&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/14/the_one_within_the_villainess_2987041.webp?1735644575"
     },
     {
-        "nom_manga": "Tsukimichi - Moonlit Fantasy Vol. 4",
-        "date_sortie": "13/12/2024",
-        "prix": "6.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385031701&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/31/tsukimichi_-_moonlit_fantasy_452713.webp?1731092425"
-    },
-    {
-        "nom_manga": "See You My King Vol. 1 - Édition Collector",
-        "date_sortie": "14/12/2024",
-        "prix": "",
-        "editeur": "Yurang Éditions",
-        "lien_acheter": null,
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/64/see_you_my_king_vol_1_-_edition_collector_edition_reliee_francaise1005346.webp?1732561561"
-    },
-    {
-        "nom_manga": "7th Time Loop - The Villainess Enjoys a Carefree Life Vol. 6",
-        "date_sortie": "20/12/2024",
-        "prix": "6.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382754603&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/27/7th_time_loop_-_the_villainess_enjoys_a_carefree_life_6996772.webp?1731756195"
-    },
-    {
-        "nom_manga": "Chillin' Life in a Different World Vol. 10",
-        "date_sortie": "20/12/2024",
-        "prix": "6.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385031015&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/86/chillin_life_in_a_different_world_10998268.webp?1732300647"
-    },
-    {
-        "nom_manga": "Chillin' Life in a Different World Vol. 10 - Édition Limitée",
-        "date_sortie": "20/12/2024",
-        "prix": "12.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385035419&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/10/chillin_life_in_a_different_world_vol_10_-_edition_limitee1009301.webp?1732094765"
-    },
-    {
-        "nom_manga": "Failure Frame Vol. 9",
-        "date_sortie": "20/12/2024",
-        "prix": "6.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385030308&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/36/failure_frame_9995863.webp?1732300740"
-    },
-    {
-        "nom_manga": "Failure Frame Vol. 9 - Édition Limitée",
-        "date_sortie": "20/12/2024",
-        "prix": "12.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385035655&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/00/failure_frame_vol_10_-_edition_limitee1009300.webp?1732267868"
-    },
-    {
-        "nom_manga": "School-Live! Vol. 1",
-        "date_sortie": "20/12/2024",
+        "nom_manga": "This Monster Wants to Eat Me Vol. 5",
+        "date_sortie": "24/01/2025",
         "prix": "7.95 €",
         "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385035990&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/73/school-live_129137.webp?1732870257"
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385034887&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/34/watashi_wo_tabetai_hitodenashi_5974243.webp?1734278862"
     },
     {
-        "nom_manga": "School-Live! Vol. 2",
-        "date_sortie": "20/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385036003&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/83/school-live_229138.webp?1732870292"
+        "nom_manga": "Tokyo Cannabis Vol. 4",
+        "date_sortie": "24/01/2025",
+        "prix": "7.90 €",
+        "editeur": "Kana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505130987&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/94/tokyo_cannabis_4992749.webp?1735644608"
     },
     {
-        "nom_manga": "The Most Notorious \"Talker\" Vol. 8",
-        "date_sortie": "20/12/2024",
-        "prix": "6.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382754153&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/04/the_most_notorious_talker_8991340.webp?1732301290"
+        "nom_manga": "Tu me coupes le souffle Vol. 4",
+        "date_sortie": "24/01/2025",
+        "prix": "9.35 €",
+        "editeur": "Taifu Comics",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782375064900&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/32/iki_dekinai_no_wa_kimi_no_sei_4981923.webp?1728580621"
     },
     {
-        "nom_manga": "The Most Notorious \"Talker\" Vol. 8 - Édition Collector",
-        "date_sortie": "20/12/2024",
-        "prix": "12.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385035686&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/55/the_most_notorious_talker_8_-_edition_collector1010055.webp?1732267804"
+        "nom_manga": "Yashirojima - La forêt des rêves perdus Vol. 1",
+        "date_sortie": "24/01/2025",
+        "prix": "16 €",
+        "editeur": "VEGA-Dupuis",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782379503252&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/04/yashirojima_-_la_foret_des_reves_perdus_11012040.webp?0"
     },
     {
-        "nom_manga": "The New Gate Vol. 3",
-        "date_sortie": "20/12/2024",
-        "prix": "6.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385031138&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/38/the_new_gate_3985983.webp?1731097990"
+        "nom_manga": "××× Lecture Vol. 1",
+        "date_sortie": "24/01/2025",
+        "prix": "7.90 €",
+        "editeur": null,
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782375065020&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/54/_lecture_11012045.webp?0"
     },
     {
-        "nom_manga": "The New Gate Vol. 4",
-        "date_sortie": "20/12/2024",
-        "prix": "6.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385031145&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/48/the_new_gate_4985984.webp?1731097986"
+        "nom_manga": "JagWars Vol. 5",
+        "date_sortie": "28/01/2025",
+        "prix": "13.95 €",
+        "editeur": "Nouvelle Hydre",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782494841215&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/45/jagwars_51009254.webp?1735644128"
     },
     {
-        "nom_manga": "The World's Finest Assassin Vol. 1",
-        "date_sortie": "20/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385035877&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/80/the_world_s_finest_assassin_145708.webp?1730975738"
+        "nom_manga": "Magnum Opus Vol. 1",
+        "date_sortie": "28/01/2025",
+        "prix": "13.95 €",
+        "editeur": "Nouvelle Hydre",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782494841284&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/59/magnum_opus_1_edition_nouvelle_hydre1011595.webp?1735644117"
     },
     {
-        "nom_manga": "The World's Finest Assassin Vol. 2",
-        "date_sortie": "20/12/2024",
-        "prix": "7.95 €",
-        "editeur": "Meian",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385035884&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/34/the_world_s_finest_assassin_2934343.webp?1730975725"
+        "nom_manga": "The Isolated Zone Vol. 2",
+        "date_sortie": "28/01/2025",
+        "prix": "15.95 €",
+        "editeur": "Nouvelle Hydre",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782494841246&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/35/the_isolated_zone_2_reedition_les_prisonniers_du_kanto1009253.webp?1735644087"
     },
     {
-        "nom_manga": "Butareba - Ou l'histoire de l'homme devenu cochon Vol. 3",
-        "date_sortie": "26/12/2024",
-        "prix": "8.50 €",
-        "editeur": "Soleil",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782302102255&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/51/butareba_-_ou_l_histoire_de_l_homme_devenu_cochon_3981615.webp?1711531778"
+        "nom_manga": "A Fake Affair Vol. 4",
+        "date_sortie": "29/01/2025",
+        "prix": "19 €",
+        "editeur": "Le Lézard Noir",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782353483280&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/64/a_fake_affair_4_edition_reliee_francaise1000846.webp?1735644098"
     },
     {
-        "nom_manga": "Friends Games Vol. 19",
-        "date_sortie": "26/12/2024",
-        "prix": "8.50 €",
-        "editeur": "Soleil",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782302103368&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/00/friends_games_19957900.webp?1719298324"
-    },
-    {
-        "nom_manga": "Il ne comprend pas qu'il me plaît Vol. 6",
-        "date_sortie": "26/12/2024",
-        "prix": "8.50 €",
-        "editeur": "Soleil",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782302103498&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/15/il_ne_comprend_pas_qu_il_me_plait_6980051.webp?1719493823"
-    },
-    {
-        "nom_manga": "Love Coach Koigakubo-kun Vol. 4",
-        "date_sortie": "26/12/2024",
+        "nom_manga": "Akatsuki Jihen Vol. 1",
+        "date_sortie": "29/01/2025",
         "prix": "7.29 €",
-        "editeur": "Soleil",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782302103924&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/03/love_coach_koigakubo-kun_4976430.webp?1732368197"
+        "editeur": "Crunchyroll",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820348807&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/03/akatsuki_jihen_1985530.webp?1735644078"
     },
     {
-        "nom_manga": "Solo Camping for Two Vol. 4",
-        "date_sortie": "26/12/2024",
+        "nom_manga": "Beyblade X Vol. 2",
+        "date_sortie": "29/01/2025",
+        "prix": "7.99 €",
+        "editeur": "Crunchyroll",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782820351647&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/84/beyblade_x_2996748.webp?1735643829"
+    },
+    {
+        "nom_manga": "Dragon Quest - The Adventure of Daï - The Hero Avan and the Dark Lord of Hellfire Vol. 3",
+        "date_sortie": "29/01/2025",
+        "prix": "7.29 €",
+        "editeur": "Delcourt/Tonkam",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782413077435&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/06/dragon_quest_-_the_adventure_of_dai_-_the_hero_avan_and_the_dark_lord_of_hellfire_3958760.webp?1735643851"
+    },
+    {
+        "nom_manga": "La Planète verte Vol. 3",
+        "date_sortie": "29/01/2025",
+        "prix": "14 €",
+        "editeur": "Le Lézard Noir",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782353483150&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/31/la_planete_verte_31001013.webp?1735643657"
+    },
+    {
+        "nom_manga": "Le Secret d'Aiko Vol. 1",
+        "date_sortie": "29/01/2025",
+        "prix": "8.29 €",
+        "editeur": "Panini",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039133029&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/11/le_secret_d_aiko_1_reedition_20251006611.webp?1735643560"
+    },
+    {
+        "nom_manga": "Man-ken Vol. 5",
+        "date_sortie": "29/01/2025",
+        "prix": "9.99 €",
+        "editeur": "Panini",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039133050&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/98/man-ken_518589.webp?1735643696"
+    },
+    {
+        "nom_manga": "Promesses en Rose Vol. 12",
+        "date_sortie": "29/01/2025",
+        "prix": "8.29 €",
+        "editeur": "Panini",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791039133036&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/48/promesses_en_rose_121001484.webp?1735643642"
+    },
+    {
+        "nom_manga": "Roses et Champagne Vol. 5",
+        "date_sortie": "29/01/2025",
+        "prix": "14.95 €",
+        "editeur": "Verytoon",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382883419&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/93/roses_et_champagne_51012039.webp?0"
+    },
+    {
+        "nom_manga": "Stay Popular ! Vol. 2",
+        "date_sortie": "29/01/2025",
+        "prix": "14.95 €",
+        "editeur": "Kbooks",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382883068&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/79/stay_popular_2_edition_reliee_francaise1005797.webp?1735643544"
+    },
+    {
+        "nom_manga": "Un Panther en Ukraine Vol. 1",
+        "date_sortie": "29/01/2025",
+        "prix": "10 €",
+        "editeur": "Paquet",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782889324545&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/98/un_panther_en_ukraine_1992589.webp?1734763392"
+    },
+    {
+        "nom_manga": "Akumakun Vol. 2",
+        "date_sortie": "30/01/2025",
+        "prix": "18.50 €",
+        "editeur": "Cornélius",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782360812240&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/83/akumakun_21012038.webp?1735643524"
+    },
+    {
+        "nom_manga": "La Couche est pleine Vol. 1",
+        "date_sortie": "30/01/2025",
+        "prix": "7.75 €",
+        "editeur": "Akata",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782382127551&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/47/la_couche_est_pleine_11011074.webp?1735647259"
+    },
+    {
+        "nom_manga": "La sainte déchue et son fervent protecteur Vol. 4",
+        "date_sortie": "30/01/2025",
+        "prix": "7.99 €",
+        "editeur": "komikku",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782372878388&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/85/la_sainte_dechue_et_son_fervent_protecteur_41002958.webp?1735643378"
+    },
+    {
+        "nom_manga": "La Sorcière des âmes Vol. 1",
+        "date_sortie": "30/01/2025",
+        "prix": "7.99 €",
+        "editeur": "komikku",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782372878401&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/11/la_sorciere_des_ames_1999811.webp?1735643361"
+    },
+    {
+        "nom_manga": "La Vengeance d'Odin Vol. 2",
+        "date_sortie": "30/01/2025",
         "prix": "8.50 €",
-        "editeur": "Soleil",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782302100657&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/21/solo_camping_for_two_446112.webp?1732368213"
+        "editeur": "komikku",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782372878395&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/38/la_vengeance_d_odin_21004883.webp?1735643265"
     },
     {
-        "nom_manga": "Tales of Demons and Gods Vol. 25",
-        "date_sortie": "26/12/2024",
+        "nom_manga": "Le mari de mon frère Vol. 2",
+        "date_sortie": "30/01/2025",
+        "prix": "14.99 €",
+        "editeur": "Akata",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385690632&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/64/le_mari_de_mon_frere_2_edition_anniversaire1009846.webp?1735651301"
+    },
+    {
+        "nom_manga": "Losers - Chroniques d'un magazine légendaire Vol. 2",
+        "date_sortie": "30/01/2025",
+        "prix": "8.05 €",
+        "editeur": "Akata",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782385313104&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/69/losers_-_chroniques_d_un_magazine_legendaire_2955796.webp?1735647027"
+    },
+    {
+        "nom_manga": "Mecha-mages - D'esclave à héros Vol. 6",
+        "date_sortie": "30/01/2025",
+        "prix": "8.50 €",
+        "editeur": "komikku",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782372877879&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/71/mecha-mages_-_d_esclave_a_heros_61005017.webp?1735643414"
+    },
+    {
+        "nom_manga": "Profession Héros Vol. 4",
+        "date_sortie": "30/01/2025",
+        "prix": "7.99 €",
+        "editeur": "komikku",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782372878418&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/13/profession_heros_41001131.webp?1735643399"
+    },
+    {
+        "nom_manga": "Anna et le prince d'Albion Vol. 4",
+        "date_sortie": "31/01/2025",
+        "prix": "8 €",
+        "editeur": "naBan",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782380600735&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/15/anna_et_le_prince_d_albion_4992651.webp?1735653848"
+    },
+    {
+        "nom_manga": "Boruto - Two Blue Vortex Vol. 2",
+        "date_sortie": "31/01/2025",
+        "prix": "7.30 €",
+        "editeur": "Kana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505128687&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/58/boruto_-_two_blue_vortex_21000885.webp?1735643211"
+    },
+    {
+        "nom_manga": "Console 2073 Vol. 1",
+        "date_sortie": "31/01/2025",
+        "prix": "15.50 €",
+        "editeur": "Kana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505126782&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/19/console_2073_11006191.webp?1735643162"
+    },
+    {
+        "nom_manga": "Les fleurs du passé Vol. 1",
+        "date_sortie": "31/01/2025",
+        "prix": "8 €",
+        "editeur": "naBan",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782380601152&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/12/les_fleurs_du_passe_1_reedition_naban1004721.webp?1735643011"
+    },
+    {
+        "nom_manga": "Les fleurs du passé Vol. 2",
+        "date_sortie": "31/01/2025",
+        "prix": "8 €",
+        "editeur": "naBan",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782380601169&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/00/les_fleurs_du_passe_2_reedition_naban1005800.webp?1735643021"
+    },
+    {
+        "nom_manga": "Magic Nail Art Vol. 3",
+        "date_sortie": "31/01/2025",
+        "prix": "8 €",
+        "editeur": "naBan",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782380600919&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/17/magic_nail_art_3994071.webp?1735643083"
+    },
+    {
+        "nom_manga": "Naruto Vol. 31",
+        "date_sortie": "31/01/2025",
+        "prix": "15.50 €",
+        "editeur": "Kana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505116974&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/21/naruto_31_edition_hokage1006612.webp?1735643053"
+    },
+    {
+        "nom_manga": "Neko Goze - Chats Errants Vol. 1",
+        "date_sortie": "31/01/2025",
+        "prix": "8.45 €",
+        "editeur": "Shiba Édition",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782380230949&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/23/neko_goze_-_chats_errants_11005932.webp?1735642985"
+    },
+    {
+        "nom_manga": "Neko Goze - Chats Errants Vol. 2",
+        "date_sortie": "31/01/2025",
+        "prix": "8.45 €",
+        "editeur": "Shiba Édition",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782380230956&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/33/neko_goze_-_chats_errants_21005933.webp?1735642995"
+    },
+    {
+        "nom_manga": "Polaris Will Never Be Gone Vol. 2",
+        "date_sortie": "31/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Chattochatto",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782490453382&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/13/polaris_will_never_be_gone_2981331.webp?1727848773"
+    },
+    {
+        "nom_manga": "Pseudo Harem Vol. 4",
+        "date_sortie": "31/01/2025",
+        "prix": "7.95 €",
+        "editeur": "Chattochatto",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782490453351&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/29/pseudo_harem_4932792.webp?1735642963"
+    },
+    {
+        "nom_manga": "River End Café Vol. 4",
+        "date_sortie": "31/01/2025",
         "prix": "8.95 €",
-        "editeur": "Nazca",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782494400405&books",
-        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/61/tales_of_demons_and_gods_25_edition_reliee_francaise1001016.webp?1732444396"
+        "editeur": "Shiba Édition",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782380230925&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/00/83/river_end_cafe_446638.webp?1735642947"
     },
     {
-        "nom_manga": "Cutie Pie Vol. 1",
-        "date_sortie": "02/12/2024",
-        "prix": "25 €",
-        "editeur": "Juno Publishing",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782384409754&books",
-        "image": "https://www.nautiljon.com/imagesmin/light_novels_volumes/00/31/cutie_pie_1_7813.webp?1731527388"
+        "nom_manga": "Slam Dunk Vol. 7",
+        "date_sortie": "31/01/2025",
+        "prix": "13.95 €",
+        "editeur": "Kana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505133124&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/73/slam_dunk_7_deluxe974337.webp?1735642911"
     },
     {
-        "nom_manga": "Moi, quand je me réincarne en Slime Vol. 7",
-        "date_sortie": "05/12/2024",
-        "prix": "14.90 €",
-        "editeur": "Kurokawa",
-        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791042014605&books",
-        "image": "https://www.nautiljon.com/imagesmin/light_novels_volumes/00/01/moi_quand_je_me_reincarne_en_slime_7_1910.webp?1731855794"
+        "nom_manga": "Vies d'ensemble - Au-delà des mots - Vol. 3",
+        "date_sortie": "31/01/2025",
+        "prix": "8 €",
+        "editeur": "naBan",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782380600858&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/12/73/vies_d_ensemble_-_au-dela_des_mots_-_3990337.webp?1735642846"
+    },
+    {
+        "nom_manga": "Yawara! Vol. 19",
+        "date_sortie": "31/01/2025",
+        "prix": "15.50 €",
+        "editeur": "Kana",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782505086659&books",
+        "image": "https://www.nautiljon.com/imagesmin/manga_volumes/11/40/yawara_19947804.webp?1735642824"
+    },
+    {
+        "nom_manga": "The Saint's Magic Power is Omnipotent : L'EXTRAordinaire Apothicaire Vol. 5",
+        "date_sortie": "03/01/2025",
+        "prix": "8.49 €",
+        "editeur": "JNC Nina",
+        "lien_acheter": null,
+        "image": "https://www.nautiljon.com/imagesmin/light_novels_volumes/00/36/the_saint_s_magic_power_is_omnipotent_l_extraordinaire_apothicaire_5_edition_numerique_19863.webp?0"
+    },
+    {
+        "nom_manga": "Mynoghra : Annonciateur de l'apocalypse Vol. 4",
+        "date_sortie": "17/01/2025",
+        "prix": "14.50 €",
+        "editeur": "Mahô Éditions",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782487369238&books",
+        "image": "https://www.nautiljon.com/imagesmin/light_novels_volumes/00/73/mynoghra_annonciateur_de_l_apocalypse_4_9137.webp?1735465660"
+    },
+    {
+        "nom_manga": "Le Grand Maître de la Cultivation Démoniaque Vol. 4 - Édition collector",
+        "date_sortie": "22/01/2025",
+        "prix": "29.99 €",
+        "editeur": "Bookmark",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791038137738&books",
+        "image": "https://www.nautiljon.com/imagesmin/light_novels_volumes/00/34/le_grand_maitre_de_la_cultivation_demoniaque_vol_4_-_edition_collector_edition_reliee_francaise_18943.webp?1729621079"
+    },
+    {
+        "nom_manga": "Le Grand Maître de la Cultivation Démoniaque Vol. 4",
+        "date_sortie": "22/01/2025",
+        "prix": "21.99 €",
+        "editeur": "Bookmark",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9791038137721&books",
+        "image": "https://www.nautiljon.com/imagesmin/light_novels_volumes/00/44/it_4_edition_reliee_francaise_18944.webp?1727723642"
+    },
+    {
+        "nom_manga": "The Witch and the Mercenary Vol. 1",
+        "date_sortie": "31/01/2025",
+        "prix": "14.50 €",
+        "editeur": "Mahô Éditions",
+        "lien_acheter": "https://www.nautiljon.com/site/acheter.php?ean=9782487369313&books",
+        "image": "https://www.nautiljon.com/imagesmin/light_novels_volumes/00/49/majo_to_youhei_1_14994.webp?1735642864"
     }
 ]
