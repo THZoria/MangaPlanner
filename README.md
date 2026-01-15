@@ -1,5 +1,9 @@
 # MangaPlanner
 
+[![Discord](https://img.shields.io/discord/454099185416011776?label=Rejoindre%20le%20Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.sighya.fr) <br>
+[![Dernière version](https://img.shields.io/github/v/release/THZoria/MangaPlanner?label=Dernière%20Version&color=05c09a&style=for-the-badge)](https://github.com/THZoria/MangaPlanner/latest)
+[![Téléchargements](https://img.shields.io/github/downloads/THZoria/MangaPlanner/total?label=Téléchargements&color=blue&style=for-the-badge)](https://github.com/THZoria/MangaPlanner)
+
 MangaPlanner is a Python script designed to provide manga calendars on Discord.
 It uses an API or web scraping from the nautiljon site to retrieve information on upcoming manga releases, then formats them in a clear and readable way for display on a Discord server or in ICS format. This script can be configured to run periodically, providing regular updates on new manga releases, offering a rewarding experience for manga fans on Discord or in ICS for Mail tools like Outlook or Thuderbird.
 
