@@ -8,7 +8,7 @@ from pathlib import Path
 from playwright.async_api import TimeoutError as PlaywrightTimeout
 from playwright.async_api import async_playwright
 
-APP_VERSION = "1.2.0 by Zoria"
+APP_VERSION = "3.0.1 by Zoria"
 BASE_URL = "https://www.nautiljon.com"
 PLANNING_URL = f"{BASE_URL}/planning/ln/"
 
