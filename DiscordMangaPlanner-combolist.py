@@ -11,7 +11,7 @@ from playwright.async_api import async_playwright
 APP_VERSION = "3.0.1 by Zoria"
 BASE_URL = "https://www.nautiljon.com"
 PLANNING_URL = f"{BASE_URL}/planning/manga/"
-WEBHOOK_URL = "https://discord.com/api/webhooks/1191861955741360128/x9RvruZJhy2V4oiykx3_rWu0uC1STV3P-wJaD-MbCjwx1d0wY8WmWwsWB1RN2ptBspyq"
+WEBHOOK_URL = ""
 def any_keyword_in(text: str, keywords: Iterable[str]) -> bool:
     lower_text = text.lower()
     return any(keyword.lower() in lower_text for keyword in keywords)
