@@ -1,92 +1,100 @@
 # MangaPlanner
 
-[![Discord](https://img.shields.io/discord/454099185416011776?label=Rejoindre%20le%20Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.sighya.fr) <br>
-[![Dernière version](https://img.shields.io/github/v/release/THZoria/MangaPlanner?label=Dernière%20Version&color=05c09a&style=for-the-badge)](https://github.com/THZoria/MangaPlanner/latest)
-[![Téléchargements](https://img.shields.io/github/downloads/THZoria/MangaPlanner/total?label=Téléchargements&color=blue&style=for-the-badge)](https://github.com/THZoria/MangaPlanner)
+[![Discord](https://img.shields.io/discord/454099185416011776?label=Join%20Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.sighya.fr)
+[![Latest Release](https://img.shields.io/github/v/release/THZoria/MangaPlanner?label=Latest%20Release&color=05c09a&style=for-the-badge)](https://github.com/THZoria/MangaPlanner/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/THZoria/MangaPlanner/total?label=Downloads&color=blue&style=for-the-badge)](https://github.com/THZoria/MangaPlanner)
 
-MangaPlanner is a Python script designed to provide manga calendars on Discord.
-It uses an API or web scraping from the nautiljon site to retrieve information on upcoming manga releases, then formats them in a clear and readable way for display on a Discord server or in ICS format. This script can be configured to run periodically, providing regular updates on new manga releases, offering a rewarding experience for manga fans on Discord or in ICS for Mail tools like Outlook or Thuderbird.
+MangaPlanner is a Python project that retrieves upcoming **Manga and Light Novel releases from Nautiljon**.
 
-# There are 2 versions of this script, 
-- The first displays the entire schedule for the upcoming manga month.
-- The second displays only the mangas you've added to the combo list.
+It can output the release schedule in three different ways:
 
-# How it works
-This requires the use of Python, as well as a certain module asyncio, pyppeteer, beautifulsoup4, schedule and requests
-Install the requirements:
+- **Discord** - Send upcoming releases to a Discord channel using a webhook.
+- **ICS** - Generate calendars compatible with Outlook, Thunderbird, Google Calendar, etc.
+- **JSON** - Export release information such as title, date, price, publisher, purchase link and cover.
 
-```sh
+Discord and ICS scripts also have a **ComboList** version to only track selected titles.
+
+> [!NOTE]
+> MangaPlanner is an independent project and is not affiliated with Nautiljon.
+
+## Installation
+
+Requires **Python 3**.
+
+```bash
 git clone https://github.com/THZoria/MangaPlanner.git
+cd MangaPlanner
+
 pip install -r requirements.txt
+playwright install
 ```
 
-To run the for discord script
+## Usage
 
-Full Version Manga :
+### Discord
 
-```sh
-python DiscordMangaPlanner.py
+Configure your Discord webhook in the script before running it.
+
+```bash
+# Manga
+python DiscordPlanner/DiscordMangaPlanner.py
+python DiscordPlanner/DiscordMangaPlanner-combolist.py
+
+# Light Novels
+python DiscordPlanner/DiscordLNPlanner.py
+python DiscordPlanner/DiscordLNPlanner-combolist.py
 ```
 
-Version with list of mangas to be added to the script
+The `-combolist` versions only send releases matching titles from your personal list.
 
-```sh
-python DiscordMangaPlanner-combolist.py
+### ICS
+
+Generate an `.ics` calendar containing upcoming releases:
+
+```bash
+# Manga
+python MangaPlannerICS/MangaPlannerICS.py
+python MangaPlannerICS/MangaPlannerICS-combolist.py
+
+# Light Novels
+python LNPlannerICS/LNPlannerICS.py
+python LNPlannerICS/LNPlannerICS-combolist.py
 ```
 
-Full Version Light Novel :
+The generated calendar can be imported into any application supporting the ICS format.
 
-```sh
-python DiscordLNPlanner.py
-```
+### JSON
 
-Version with list of LightNovel to be added to the script
+Generate structured release data:
 
-```sh
-python DiscordLNPlanner-combolist.py
-```
-
-To run this script in ICS version
-
-Full Version Manga :
-
-```sh
-python MangaPlannerICS.py
-```
-
-Version with list of mangas to be added to the script
-
-```sh
-python MangaPlannerICS-ComboList.py
-```
-
-Full Version Light Novel :
-
-```sh
-python LNPlannerICS.py
-```
-
-Version with list of LightNovel to be added to the script
-
-```sh
-python python LNPlannerICS.py
-```
-
-Version that generates a json file containing id, manga name, release date, price, publisher, purchase link and image.
-
-Full Version Manga :
-
-```sh
+```bash
+# Manga
 python MangaPlannerJson.py
-```
-Full Version LightNovel :
 
-```sh
+# Light Novels
 python LNPlannerJson.py
 ```
 
-You'll also need to modify the webhook link in the script, as well as the combo list if you're using the 2nd script
-All that's left to do is to use the Windows task scheduler or Cron on Linux to automate the monthly script launch.
+JSON exports include the available release information such as title, release date, price, publisher, purchase link and cover image.
 
-Basically, it's a simple script I made in my spare time just to keep up to date with the latest releases. Feel free to fork the script and improve it to your liking, this script being far from perfect.
-Many thanks to Pharuxtan who helped me create the script embed,
+## Automation
+
+The scripts can be run automatically using **Cron** on Linux or **Task Scheduler** on Windows.
+
+Example Cron job to run the Manga Discord planner on the first day of every month:
+
+```cron
+0 9 1 * * cd /path/to/MangaPlanner && python DiscordPlanner/DiscordMangaPlanner.py
+```
+
+## About
+
+MangaPlanner was originally created as a small personal project to keep track of upcoming Manga and Light Novel releases.
+
+It relies on Nautiljon's website structure, so scraper updates may occasionally be required when the website changes.
+
+Feel free to fork the project, report issues, submit fixes or improve it for your own needs.
+
+Created by **Zoria / THZoria**.
+
+Special thanks to **Pharuxtan** for helping with the original Discord embed implementation.
