@@ -10,13 +10,9 @@ from typing import List, Optional, Iterable
 
 from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeout
 
-APP_VERSION = "1.3.0"
+APP_VERSION = "3.0.1 by Zoria"
 BASE_URL = "https://www.nautiljon.com"
 PLANNING_URL = f"{BASE_URL}/planning/manga/"
-
-#Combo list of mangas you're interested in
-ALLOWED_KEYWORDS = ["KeyWord1", "KeyWord2", "KeyWord4", "KeyWord5", "KeyWord6"]
-
 # --------------------------- Model ---------------------------
 
 @dataclass
@@ -32,21 +28,33 @@ class MangaEvent:
             dt = datetime.strptime(self.date_sortie, "%d/%m/%Y")
             return dt.strftime("%Y%m%d")
         except ValueError:
-            return ""
+            try:
+                dt = datetime.strptime(self.date_sortie, "%Y-%m-%d")
+                return dt.strftime("%Y%m%d")
+            except ValueError:
+                return ""
 
     def date_end_as_ics(self) -> str:
         try:
             dt = datetime.strptime(self.date_sortie, "%d/%m/%Y") + timedelta(days=1)
             return dt.strftime("%Y%m%d")
         except ValueError:
-            return ""
+            try:
+                dt = datetime.strptime(self.date_sortie, "%Y-%m-%d") + timedelta(days=1)
+                return dt.strftime("%Y%m%d")
+            except ValueError:
+                return ""
 
     def human_date(self) -> str:
         try:
             dt = datetime.strptime(self.date_sortie, "%d/%m/%Y")
             return dt.strftime("%d/%m/%Y")
         except ValueError:
-            return self.date_sortie
+            try:
+                dt = datetime.strptime(self.date_sortie, "%Y-%m-%d")
+                return dt.strftime("%d/%m/%Y")
+            except ValueError:
+                return self.date_sortie
 
 # --------------------------- Utilities ---------------------------
 
@@ -82,18 +90,21 @@ async def extract_items(page) -> List[MangaEvent]:
         "#planning tbody tr",
         """
         (trs) => trs.map(tr => {
+            if (tr.classList.contains('planning_day')) return null;
+
             const tds = Array.from(tr.querySelectorAll('td'));
-            if (tds.length < 6) return null;
+            if (tds.length < 5) return null;
 
             const txt = el => (el?.textContent || '').trim();
 
-            const date = txt(tds[0]);
-            const linksTitle = tds[2].querySelectorAll('a');
-            const nom = linksTitle.length ? txt(linksTitle[linksTitle.length - 1]) : txt(tds[2]);
-            const prix = txt(tds[3]);
-            const edLink = tds[4].querySelector('a');
-            const editeur = edLink ? txt(edLink) : txt(tds[4]);
-            const buyLink = tds[5].querySelector('a');
+            const date = (tr.getAttribute('data-planning-date') || '').trim();
+            const heading = tds[1].querySelector('.planning_volume_heading');
+            const details = tds[1].querySelector('.planning_volume_details');
+            const nom = [txt(heading), txt(details)].filter(Boolean).join(' - ') || txt(tds[1]);
+            const prix = txt(tds[2]);
+            const edLink = tds[3].querySelector('a');
+            const editeur = edLink ? txt(edLink) : txt(tds[3]);
+            const buyLink = tds[4].querySelector('a');
             let lien = buyLink ? (buyLink.getAttribute('href') || '').trim() : null;
             if (lien && !/^https?:\\/\\//.test(lien)) lien = 'https://www.nautiljon.com' + lien;
 
