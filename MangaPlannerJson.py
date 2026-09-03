@@ -14,7 +14,7 @@ from playwright.async_api import async_playwright, TimeoutError as PlaywrightTim
 import argparse
 import sys
 
-APP_VERSION = "1.3.0 by Zoria"
+APP_VERSION = "3.0.1 by Zoria"
 BASE_URL = "https://www.nautiljon.com"
 PLANNING_URL = f"{BASE_URL}/planning/manga/"
 
@@ -89,26 +89,29 @@ async def extract_planning(page) -> List[MangaItem]:
         "#planning tbody tr",
         """
         (trs) => trs.map(tr => {
+            if (tr.classList.contains('planning_day')) return null;
+
             const tds = Array.from(tr.querySelectorAll('td'));
-            if (tds.length < 6) return null;
+            if (tds.length < 5) return null;
 
             const text = el => (el?.textContent || '').trim();
 
-            const date_sortie = text(tds[0]);
+            const date_sortie = (tr.getAttribute('data-planning-date') || '').trim();
 
-            const imgEl = tds[1].querySelector('a img');
+            const imgEl = tds[0].querySelector('a img');
             let image = imgEl ? (imgEl.getAttribute('src') || '').trim() : null;
             if (image && !/^https?:\\/\\//.test(image)) image = 'https://www.nautiljon.com' + image;
 
-            const linksTitle = tds[2].querySelectorAll('a');
-            const nom_manga = linksTitle.length ? text(linksTitle[linksTitle.length - 1]) : text(tds[2]);
+            const heading = tds[1].querySelector('.planning_volume_heading');
+            const details = tds[1].querySelector('.planning_volume_details');
+            const nom_manga = [text(heading), text(details)].filter(Boolean).join(' - ') || text(tds[1]);
 
-            const prix = text(tds[3]);
+            const prix = text(tds[2]);
 
-            const edLink = tds[4].querySelector('a');
-            const editeur = edLink ? text(edLink) : (text(tds[4]) || null);
+            const edLink = tds[3].querySelector('a');
+            const editeur = edLink ? text(edLink) : (text(tds[3]) || null);
 
-            const buyLink = tds[5].querySelector('a');
+            const buyLink = tds[4].querySelector('a');
             let lien_acheter = buyLink ? (buyLink.getAttribute('href') || '').trim() : null;
             if (lien_acheter && !/^https?:\\/\\//.test(lien_acheter)) lien_acheter = 'https://www.nautiljon.com' + lien_acheter;
 
